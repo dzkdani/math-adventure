@@ -1,0 +1,3635 @@
+fileFormatVersion: 2
+guid: 4e777ab27b9f36e4ca5a96d8a20e27d9
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData:
+  - name: goldShield_00.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2860
+      width: 272
+      height: 336
+    spriteID: 98cc6dc75bc2b0542890f7dc632bc386
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -110, y: 2778}
+  - name: goldShield_01.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3204
+      width: 272
+      height: 336
+    spriteID: 20cc455615e8dd84385cf491b3734f02
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -113, y: 3122}
+  - name: goldShield_02.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 293
+      y: 348
+      width: 268
+      height: 337
+    spriteID: 31e1bc285dc5b7948b128947e08809f8
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 171, y: 266}
+  - name: goldShield_03.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 293
+      y: 2105
+      width: 263
+      height: 339
+    spriteID: 2dba81184e658ba458c9a09c7560e383
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 165, y: 2023}
+  - name: goldShield_04.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 293
+      y: 2801
+      width: 255
+      height: 341
+    spriteID: 62053b4571fb79743bd1604ded14d19c
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 158, y: 2720}
+  - name: goldShield_05.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 573
+      y: 4
+      width: 244
+      height: 342
+    spriteID: 0ebe2e4efe0ada54e94c0bf5fbd207c0
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 429, y: -77}
+  - name: goldShield_06.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 573
+      y: 1426
+      width: 233
+      height: 343
+    spriteID: 96cd8576934c0074cbbb48e46edd25a5
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 421, y: 1345}
+  - name: goldShield_07.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 573
+      y: 2128
+      width: 217
+      height: 345
+    spriteID: 610dba8763aa3134f8120ab1c537462b
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 411, y: 2047}
+  - name: goldShield_08.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 825
+      y: 4
+      width: 199
+      height: 346
+    spriteID: bae407957caa3ed49ae3a10a5a3764c4
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 653, y: -77}
+  - name: goldShield_09.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 825
+      y: 1083
+      width: 179
+      height: 348
+    spriteID: ca68caa9b7372ca45af6d6fc26e49b57
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 642, y: 1002}
+  - name: goldShield_10.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 825
+      y: 2522
+      width: 156
+      height: 350
+    spriteID: cda33df493df5e5418d8478f5691d41e
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 631, y: 2441}
+  - name: goldShield_11.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1032
+      y: 364
+      width: 131
+      height: 351
+    spriteID: 886768e8a478a464cb27aca794ea7d8a
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 826, y: 283}
+  - name: goldShield_12.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1032
+      y: 1813
+      width: 106
+      height: 352
+    spriteID: afaf9e3d427840445829dd09848f4097
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 815, y: 1732}
+  - name: goldShield_13.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1032
+      y: 3266
+      width: 78
+      height: 353
+    spriteID: 5a69c17cf3884b54b97b30f55ab1bb1a
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 803, y: 3185}
+  - name: goldShield_14.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 973
+      y: 3238
+      width: 49
+      height: 357
+    spriteID: efd604302e5a73d4e9ca99930a685660
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 732, y: 3159}
+  - name: goldShield_15.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1171
+      y: 4
+      width: 26
+      height: 477
+    spriteID: 3eb9049d0471772488ed536005f916bd
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 925, y: -19}
+  - name: goldShield_16.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1095
+      y: 3627
+      width: 55
+      height: 357
+    spriteID: be372dfab1cb3884a8318d0ebc9fd5ce
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 867, y: 3548}
+  - name: goldShield_17.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1032
+      y: 2173
+      width: 84
+      height: 357
+    spriteID: 000dea1558e843e459ea7af0a713151d
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 821, y: 2094}
+  - name: goldShield_18.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1032
+      y: 723
+      width: 113
+      height: 356
+    spriteID: 96a066caafc148e4785607e86b95fd02
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 838, y: 644}
+  - name: goldShield_19.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 825
+      y: 3603
+      width: 140
+      height: 356
+    spriteID: f8c48167704af804e81698f4ef4f5b84
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 647, y: 3525}
+  - name: goldShield_20.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 825
+      y: 2159
+      width: 165
+      height: 355
+    spriteID: ba7b731bf3efd9f4f8ea5cc0bf5289b3
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 661, y: 2081}
+  - name: goldShield_21.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 825
+      y: 721
+      width: 188
+      height: 354
+    spriteID: 54e801cab2262fc4eae1c925edc1ee21
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 674, y: 643}
+  - name: goldShield_22.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 573
+      y: 2834
+      width: 209
+      height: 354
+    spriteID: 4199998e4386c074c8b5b997325feeae
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 433, y: 2757}
+  - name: goldShield_23.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 573
+      y: 704
+      width: 228
+      height: 353
+    spriteID: bb4f411df0d22274da5d8eeddcd150ca
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 443, y: 627}
+  - name: goldShield_24.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 293
+      y: 3511
+      width: 243
+      height: 351
+    spriteID: 7117b641452462244ad3d9da61b93f9f
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 170, y: 3434}
+  - name: goldShield_25.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 293
+      y: 1398
+      width: 256
+      height: 351
+    spriteID: ba03cc19f97f79c41b2a5bcfa1641018
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 176, y: 1322}
+  - name: goldShield_26.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2502
+      width: 266
+      height: 350
+    spriteID: 6dc8ce64e8662c14f9d0bd1d9590ac28
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -109, y: 2426}
+  - name: goldShield_27.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1786
+      width: 273
+      height: 349
+    spriteID: 3c530d994c3eee443b8fdce9452d3e02
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -107, y: 1710}
+  - name: goldShield_28.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 716
+      width: 278
+      height: 348
+    spriteID: f491993a9e53f3048ad76479e7272de8
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -106, y: 640}
+  - name: goldShield_29.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 281
+      height: 348
+    spriteID: b4e58eefdd81df040ba00838cfc98bf6
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -105, y: -72}
+  - name: goldShield_30.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 360
+      width: 281
+      height: 348
+    spriteID: bf8215e7d3567cd428dbc622a31d2e9b
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -106, y: 284}
+  - name: goldShield_31.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1072
+      width: 278
+      height: 348
+    spriteID: fef1cdc286fb93e428a519774c7714aa
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -108, y: 996}
+  - name: goldShield_32.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1428
+      width: 273
+      height: 350
+    spriteID: 7d5c11da019535c4a964be96dbe5b6f0
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -112, y: 1352}
+  - name: goldShield_33.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2143
+      width: 266
+      height: 351
+    spriteID: 36f01ae862804ce43b77fc8eca9bf17c
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -117, y: 2067}
+  - name: goldShield_34.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 293
+      y: 1038
+      width: 256
+      height: 352
+    spriteID: a9f6af1a9a8aa704a80212ad2e838e03
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 166, y: 962}
+  - name: goldShield_35.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 293
+      y: 3150
+      width: 243
+      height: 353
+    spriteID: 3e03b4138e1b3d64780f11b19ec98d6c
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 159, y: 3074}
+  - name: goldShield_36.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 573
+      y: 1065
+      width: 228
+      height: 353
+    spriteID: 44b457b016bec194ea0518fcd2965281
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 431, y: 988}
+  - name: goldShield_37.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 573
+      y: 3196
+      width: 209
+      height: 354
+    spriteID: f8aa9766ee78d2146a5c57668095fe9a
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 422, y: 3119}
+  - name: goldShield_38.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 825
+      y: 358
+      width: 188
+      height: 355
+    spriteID: 1e9aea0c153fd7148b9fd188f6390db1
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 664, y: 281}
+  - name: goldShield_39.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 825
+      y: 1795
+      width: 165
+      height: 356
+    spriteID: 99a5b1ff07084a042a29d73d8ad1b16c
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 654, y: 1717}
+  - name: goldShield_40.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 825
+      y: 3238
+      width: 140
+      height: 357
+    spriteID: 5d58794995d736b44ab1e5f6bea35e89
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 643, y: 3160}
+  - name: goldShield_41.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1032
+      y: 1087
+      width: 113
+      height: 356
+    spriteID: 36ddf5814a24cad419451edffe4be60a
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 839, y: 1008}
+  - name: goldShield_42.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1032
+      y: 2538
+      width: 84
+      height: 357
+    spriteID: 617dc06b5577cd74eb9e023b641c03e1
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 827, y: 2459}
+  - name: goldShield_43.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1032
+      y: 3627
+      width: 55
+      height: 358
+    spriteID: 8011af0dc4c7b1348b1d7de41f7d0b3e
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 815, y: 3548}
+  - name: goldShield_44.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 780
+      y: 3558
+      width: 26
+      height: 479
+    spriteID: af6dff2354d4e3e408b40a5546cd36ac
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 552, y: 3537}
+  - name: goldShield_45.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 973
+      y: 3603
+      width: 49
+      height: 357
+    spriteID: f38deb5cac68119429dd1f95193dfeee
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 763, y: 3524}
+  - name: goldShield_46.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1032
+      y: 2903
+      width: 78
+      height: 355
+    spriteID: 560d77b12ce73254f8ba8541c700ae48
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 839, y: 2823}
+  - name: goldShield_47.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1032
+      y: 1451
+      width: 106
+      height: 354
+    spriteID: 1a46bc45978934244ba398f49ab55b96
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 855, y: 1371}
+  - name: goldShield_48.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1032
+      y: 4
+      width: 131
+      height: 352
+    spriteID: cfbe96a2ecec2034f99aebf1cec2f3d0
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 869, y: -76}
+  - name: goldShield_49.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 825
+      y: 2880
+      width: 156
+      height: 350
+    spriteID: fef3e2f8995a5c94fab1d1e017fab834
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 675, y: 2799}
+  - name: goldShield_50.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 825
+      y: 1439
+      width: 179
+      height: 348
+    spriteID: 54884a7940301d540ad0c70742a66550
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 687, y: 1358}
+  - name: goldShield_51.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 573
+      y: 3558
+      width: 199
+      height: 347
+    spriteID: 08f0a88625ba82c40821588b9ece54e7
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 444, y: 3477}
+  - name: goldShield_52.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 573
+      y: 2481
+      width: 217
+      height: 345
+    spriteID: 273cab8cc05b31149b971a15696b38c2
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 452, y: 2400}
+  - name: goldShield_53.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 573
+      y: 1777
+      width: 233
+      height: 343
+    spriteID: 17f50ef05aa63584ba52173427f399ae
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 458, y: 1696}
+  - name: goldShield_54.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 573
+      y: 354
+      width: 244
+      height: 342
+    spriteID: 5c6bd9cefbe194d4ba454caf89422f32
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 461, y: 273}
+  - name: goldShield_55.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 293
+      y: 2452
+      width: 256
+      height: 341
+    spriteID: 041c696c66523d1428d86c4deb89ac12
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 184, y: 2371}
+  - name: goldShield_56.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 293
+      y: 1757
+      width: 263
+      height: 340
+    spriteID: 322e52cc5e86c8d4fbd01c95294c8f5f
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 184, y: 1676}
+  - name: goldShield_57.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 293
+      y: 693
+      width: 268
+      height: 337
+    spriteID: ea5bdaeb196290047985511346d8a156
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 183, y: 611}
+  - name: goldShield_58.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3548
+      width: 272
+      height: 336
+    spriteID: e1ddc246bb5d3764fa1a39294d80eca0
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -107, y: 3466}
+  - name: goldShield_59.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 293
+      y: 4
+      width: 272
+      height: 336
+    spriteID: 6524712a86271d04ca70be5c8f6c332e
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 179, y: -78}
+  rigSpriteImportData:
+  - name: goldShield_00.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2860
+      width: 272
+      height: 336
+    spriteID: 15c96320a85d9fb49adcf7fbf94494ee
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -110, y: 2778}
+  - name: goldShield_01.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3204
+      width: 272
+      height: 336
+    spriteID: 79662d539cc96cd42ae42f1ca9e5202e
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -113, y: 3122}
+  - name: goldShield_02.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 293
+      y: 348
+      width: 268
+      height: 337
+    spriteID: b3cab11eb9f09044d9a8392cfb4a38ab
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 171, y: 266}
+  - name: goldShield_03.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 293
+      y: 2105
+      width: 263
+      height: 339
+    spriteID: 0b83a2e34f7e29d4fa956e7c24730035
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 165, y: 2023}
+  - name: goldShield_04.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 293
+      y: 2801
+      width: 255
+      height: 341
+    spriteID: e1b429438f11d2744a8b8a68b23195c9
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 158, y: 2720}
+  - name: goldShield_05.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 573
+      y: 4
+      width: 244
+      height: 342
+    spriteID: 317b37ead3789f844afeaba0864c531b
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 429, y: -77}
+  - name: goldShield_06.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 573
+      y: 1426
+      width: 233
+      height: 343
+    spriteID: 51e3afc07dc5d5d4fba8f50b7b960638
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 421, y: 1345}
+  - name: goldShield_07.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 573
+      y: 2128
+      width: 217
+      height: 345
+    spriteID: c410af39696b50545a00ea7136d7f052
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 411, y: 2047}
+  - name: goldShield_08.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 825
+      y: 4
+      width: 199
+      height: 346
+    spriteID: 0804bec7176963e4eb86e77914ebaa3c
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 653, y: -77}
+  - name: goldShield_09.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 825
+      y: 1083
+      width: 179
+      height: 348
+    spriteID: 42a3458e414936a4f9ed741adece11bb
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 642, y: 1002}
+  - name: goldShield_10.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 825
+      y: 2522
+      width: 156
+      height: 350
+    spriteID: 6603234cbcbc50f468f47fc2e96a63fc
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 631, y: 2441}
+  - name: goldShield_11.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1032
+      y: 364
+      width: 131
+      height: 351
+    spriteID: a03bb1f39e897d24dbf2c62efa52ad29
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 826, y: 283}
+  - name: goldShield_12.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1032
+      y: 1813
+      width: 106
+      height: 352
+    spriteID: 98558b6cbec50934bb04a9995870bbd0
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 815, y: 1732}
+  - name: goldShield_13.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1032
+      y: 3266
+      width: 78
+      height: 353
+    spriteID: bacfd237a7125bd49a737c4d1785ed47
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 803, y: 3185}
+  - name: goldShield_14.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 973
+      y: 3238
+      width: 49
+      height: 357
+    spriteID: b31b8a369c332b941ac3910ba00eab9b
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 732, y: 3159}
+  - name: goldShield_15.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1171
+      y: 4
+      width: 26
+      height: 477
+    spriteID: d65fd76bf8708e24c9653e7f85c2ca40
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 925, y: -19}
+  - name: goldShield_16.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1095
+      y: 3627
+      width: 55
+      height: 357
+    spriteID: 19e6153a7286f6c4fb8e268567b1d380
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 867, y: 3548}
+  - name: goldShield_17.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1032
+      y: 2173
+      width: 84
+      height: 357
+    spriteID: e2c9272a500869b4f89f4674cca424d5
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 821, y: 2094}
+  - name: goldShield_18.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1032
+      y: 723
+      width: 113
+      height: 356
+    spriteID: af5c092268eaf29428332a1ddf0f32bc
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 838, y: 644}
+  - name: goldShield_19.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 825
+      y: 3603
+      width: 140
+      height: 356
+    spriteID: 5d4452b06fba1f04ca9dda0d751b5e56
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 647, y: 3525}
+  - name: goldShield_20.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 825
+      y: 2159
+      width: 165
+      height: 355
+    spriteID: a022ecaba6befb94cb16dad77fe6c18d
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 661, y: 2081}
+  - name: goldShield_21.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 825
+      y: 721
+      width: 188
+      height: 354
+    spriteID: 257472cef3822454ea0d0ad9e4313eeb
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 674, y: 643}
+  - name: goldShield_22.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 573
+      y: 2834
+      width: 209
+      height: 354
+    spriteID: 50d5659f226e58f43a174aaae808b72e
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 433, y: 2757}
+  - name: goldShield_23.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 573
+      y: 704
+      width: 228
+      height: 353
+    spriteID: 9a15b19a871fe9c47bede8edf64e6cc3
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 443, y: 627}
+  - name: goldShield_24.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 293
+      y: 3511
+      width: 243
+      height: 351
+    spriteID: 88bd0887c782a074597f6baa46f33582
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 170, y: 3434}
+  - name: goldShield_25.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 293
+      y: 1398
+      width: 256
+      height: 351
+    spriteID: c5ce9caf7e4ec0e45914e27e5883a65f
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 176, y: 1322}
+  - name: goldShield_26.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2502
+      width: 266
+      height: 350
+    spriteID: c0f9ac4c0e14e7c409404479c27b3cdc
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -109, y: 2426}
+  - name: goldShield_27.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1786
+      width: 273
+      height: 349
+    spriteID: 59e567c037d1277469e6c725a633917e
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -107, y: 1710}
+  - name: goldShield_28.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 716
+      width: 278
+      height: 348
+    spriteID: ea2a91cd53856e7488dbfd379d51b6d2
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -106, y: 640}
+  - name: goldShield_29.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 281
+      height: 348
+    spriteID: 2307f349d2716aa408094b15d0e562c2
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -105, y: -72}
+  - name: goldShield_30.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 360
+      width: 281
+      height: 348
+    spriteID: 8696e194f585eb0418c804eeb24ea81d
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -106, y: 284}
+  - name: goldShield_31.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1072
+      width: 278
+      height: 348
+    spriteID: ac357dadcde7e0647be42b029e966a7d
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -108, y: 996}
+  - name: goldShield_32.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1428
+      width: 273
+      height: 350
+    spriteID: ae9a448e4880642428c6632e49e576ea
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -112, y: 1352}
+  - name: goldShield_33.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2143
+      width: 266
+      height: 351
+    spriteID: e7ec55ad31048d34d96774978b29a3f3
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -117, y: 2067}
+  - name: goldShield_34.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 293
+      y: 1038
+      width: 256
+      height: 352
+    spriteID: b89572f339caea6479857adf640eed5f
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 166, y: 962}
+  - name: goldShield_35.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 293
+      y: 3150
+      width: 243
+      height: 353
+    spriteID: e1c05fe4eb950bf499cc2e2dab635cea
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 159, y: 3074}
+  - name: goldShield_36.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 573
+      y: 1065
+      width: 228
+      height: 353
+    spriteID: 72ac13242510c0045bfd31f135cd86fd
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 431, y: 988}
+  - name: goldShield_37.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 573
+      y: 3196
+      width: 209
+      height: 354
+    spriteID: 4b36c7acc0616ee45aa07f23ffcbca1a
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 422, y: 3119}
+  - name: goldShield_38.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 825
+      y: 358
+      width: 188
+      height: 355
+    spriteID: 7005206058ce1ed4ba1e29f0ae257f96
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 664, y: 281}
+  - name: goldShield_39.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 825
+      y: 1795
+      width: 165
+      height: 356
+    spriteID: e6ce023d4aac7f243bc016657cf33c91
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 654, y: 1717}
+  - name: goldShield_40.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 825
+      y: 3238
+      width: 140
+      height: 357
+    spriteID: 5fd743644d3d7634aa6fa34e5b1cd448
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 643, y: 3160}
+  - name: goldShield_41.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1032
+      y: 1087
+      width: 113
+      height: 356
+    spriteID: 93271545eaa4b6e40adff82f2fd9e374
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 839, y: 1008}
+  - name: goldShield_42.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1032
+      y: 2538
+      width: 84
+      height: 357
+    spriteID: 0a2dafb2e95bc7c4c97d62f6b7bc9638
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 827, y: 2459}
+  - name: goldShield_43.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1032
+      y: 3627
+      width: 55
+      height: 358
+    spriteID: d88360c31fde9c445817917969be5d59
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 815, y: 3548}
+  - name: goldShield_44.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 780
+      y: 3558
+      width: 26
+      height: 479
+    spriteID: b95939e15d1332d4da2847097e5da8fa
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 552, y: 3537}
+  - name: goldShield_45.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 973
+      y: 3603
+      width: 49
+      height: 357
+    spriteID: efe79105c2d7d484e93c0c517e173592
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 763, y: 3524}
+  - name: goldShield_46.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1032
+      y: 2903
+      width: 78
+      height: 355
+    spriteID: f60e71369d96f6f48a2e772ebc22c6e6
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 839, y: 2823}
+  - name: goldShield_47.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1032
+      y: 1451
+      width: 106
+      height: 354
+    spriteID: 0778842c13ab070488060bb0ff0b4959
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 855, y: 1371}
+  - name: goldShield_48.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1032
+      y: 4
+      width: 131
+      height: 352
+    spriteID: 60ed3addcb5d18a46920fc2d3b0acbc6
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 869, y: -76}
+  - name: goldShield_49.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 825
+      y: 2880
+      width: 156
+      height: 350
+    spriteID: 68d139712306bc34cb0da786835e0b44
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 675, y: 2799}
+  - name: goldShield_50.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 825
+      y: 1439
+      width: 179
+      height: 348
+    spriteID: 93715106a5b7fe04cb24530aab7c9d5b
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 687, y: 1358}
+  - name: goldShield_51.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 573
+      y: 3558
+      width: 199
+      height: 347
+    spriteID: a1ba18fe6f14cf64a93a85b205a595e2
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 444, y: 3477}
+  - name: goldShield_52.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 573
+      y: 2481
+      width: 217
+      height: 345
+    spriteID: a3a2dedb49433c14c8eaba359f61e13b
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 452, y: 2400}
+  - name: goldShield_53.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 573
+      y: 1777
+      width: 233
+      height: 343
+    spriteID: 1b1842dc4eff535429bbc3b87e5acec6
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 458, y: 1696}
+  - name: goldShield_54.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 573
+      y: 354
+      width: 244
+      height: 342
+    spriteID: e6bf54a7397d46f4187c6986391431da
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 461, y: 273}
+  - name: goldShield_55.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 293
+      y: 2452
+      width: 256
+      height: 341
+    spriteID: e90b2e59ce3043048bf0f97e27513a1e
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 184, y: 2371}
+  - name: goldShield_56.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 293
+      y: 1757
+      width: 263
+      height: 340
+    spriteID: 3e6eae2b2660d484eb4922dc5b5a10a1
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 184, y: 1676}
+  - name: goldShield_57.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 293
+      y: 693
+      width: 268
+      height: 337
+    spriteID: 2876fbf9f8221f34f9e5165e30be0bcb
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 183, y: 611}
+  - name: goldShield_58.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3548
+      width: 272
+      height: 336
+    spriteID: 40b02bff3b02a604f836113bf8c5ffff
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -107, y: 3466}
+  - name: goldShield_59.png
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 293
+      y: 4
+      width: 272
+      height: 336
+    spriteID: ac4e6a0ac32d3454cbc44c020e792bfe
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 179, y: -78}
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Android
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  mosaicLayers: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  importedTextureWidth: 1024
+  importedTextureHeight: 2048
+  documentSize: {x: 500, y: 500}
+  paperDollMode: 0
+  keepDupilcateSpriteName: 0
+  spriteCategoryList:
+    categories: []
+  textureActualWidth: 2048
+  textureActualHeight: 4096
+  spritePackingTag: 
+  resliceFromLayer: 0
+  characterMode: 0
+  mosaicPSDLayers:
+  - name: goldShield_00.png
+    spriteName: goldShield_00.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 98cc6dc75bc2b0542890f7dc632bc386
+    layerID: 64
+    mosaicPosition: {x: 4, y: 2860}
+  - name: goldShield_01.png
+    spriteName: goldShield_01.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 20cc455615e8dd84385cf491b3734f02
+    layerID: 63
+    mosaicPosition: {x: 4, y: 3204}
+  - name: goldShield_02.png
+    spriteName: goldShield_02.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 31e1bc285dc5b7948b128947e08809f8
+    layerID: 62
+    mosaicPosition: {x: 293, y: 348}
+  - name: goldShield_03.png
+    spriteName: goldShield_03.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 2dba81184e658ba458c9a09c7560e383
+    layerID: 61
+    mosaicPosition: {x: 293, y: 2105}
+  - name: goldShield_04.png
+    spriteName: goldShield_04.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 62053b4571fb79743bd1604ded14d19c
+    layerID: 60
+    mosaicPosition: {x: 293, y: 2801}
+  - name: goldShield_05.png
+    spriteName: goldShield_05.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 0ebe2e4efe0ada54e94c0bf5fbd207c0
+    layerID: 59
+    mosaicPosition: {x: 573, y: 4}
+  - name: goldShield_06.png
+    spriteName: goldShield_06.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 96cd8576934c0074cbbb48e46edd25a5
+    layerID: 58
+    mosaicPosition: {x: 573, y: 1426}
+  - name: goldShield_07.png
+    spriteName: goldShield_07.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 610dba8763aa3134f8120ab1c537462b
+    layerID: 57
+    mosaicPosition: {x: 573, y: 2128}
+  - name: goldShield_08.png
+    spriteName: goldShield_08.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: bae407957caa3ed49ae3a10a5a3764c4
+    layerID: 56
+    mosaicPosition: {x: 825, y: 4}
+  - name: goldShield_09.png
+    spriteName: goldShield_09.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: ca68caa9b7372ca45af6d6fc26e49b57
+    layerID: 55
+    mosaicPosition: {x: 825, y: 1083}
+  - name: goldShield_10.png
+    spriteName: goldShield_10.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: cda33df493df5e5418d8478f5691d41e
+    layerID: 54
+    mosaicPosition: {x: 825, y: 2522}
+  - name: goldShield_11.png
+    spriteName: goldShield_11.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 886768e8a478a464cb27aca794ea7d8a
+    layerID: 53
+    mosaicPosition: {x: 1032, y: 364}
+  - name: goldShield_12.png
+    spriteName: goldShield_12.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: afaf9e3d427840445829dd09848f4097
+    layerID: 52
+    mosaicPosition: {x: 1032, y: 1813}
+  - name: goldShield_13.png
+    spriteName: goldShield_13.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 5a69c17cf3884b54b97b30f55ab1bb1a
+    layerID: 51
+    mosaicPosition: {x: 1032, y: 3266}
+  - name: goldShield_14.png
+    spriteName: goldShield_14.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: efd604302e5a73d4e9ca99930a685660
+    layerID: 50
+    mosaicPosition: {x: 973, y: 3238}
+  - name: goldShield_15.png
+    spriteName: goldShield_15.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 3eb9049d0471772488ed536005f916bd
+    layerID: 49
+    mosaicPosition: {x: 1171, y: 4}
+  - name: goldShield_16.png
+    spriteName: goldShield_16.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: be372dfab1cb3884a8318d0ebc9fd5ce
+    layerID: 48
+    mosaicPosition: {x: 1095, y: 3627}
+  - name: goldShield_17.png
+    spriteName: goldShield_17.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 000dea1558e843e459ea7af0a713151d
+    layerID: 47
+    mosaicPosition: {x: 1032, y: 2173}
+  - name: goldShield_18.png
+    spriteName: goldShield_18.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 96a066caafc148e4785607e86b95fd02
+    layerID: 46
+    mosaicPosition: {x: 1032, y: 723}
+  - name: goldShield_19.png
+    spriteName: goldShield_19.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: f8c48167704af804e81698f4ef4f5b84
+    layerID: 45
+    mosaicPosition: {x: 825, y: 3603}
+  - name: goldShield_20.png
+    spriteName: goldShield_20.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: ba7b731bf3efd9f4f8ea5cc0bf5289b3
+    layerID: 44
+    mosaicPosition: {x: 825, y: 2159}
+  - name: goldShield_21.png
+    spriteName: goldShield_21.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 54e801cab2262fc4eae1c925edc1ee21
+    layerID: 43
+    mosaicPosition: {x: 825, y: 721}
+  - name: goldShield_22.png
+    spriteName: goldShield_22.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 4199998e4386c074c8b5b997325feeae
+    layerID: 42
+    mosaicPosition: {x: 573, y: 2834}
+  - name: goldShield_23.png
+    spriteName: goldShield_23.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: bb4f411df0d22274da5d8eeddcd150ca
+    layerID: 41
+    mosaicPosition: {x: 573, y: 704}
+  - name: goldShield_24.png
+    spriteName: goldShield_24.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 7117b641452462244ad3d9da61b93f9f
+    layerID: 40
+    mosaicPosition: {x: 293, y: 3511}
+  - name: goldShield_25.png
+    spriteName: goldShield_25.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: ba03cc19f97f79c41b2a5bcfa1641018
+    layerID: 39
+    mosaicPosition: {x: 293, y: 1398}
+  - name: goldShield_26.png
+    spriteName: goldShield_26.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 6dc8ce64e8662c14f9d0bd1d9590ac28
+    layerID: 38
+    mosaicPosition: {x: 4, y: 2502}
+  - name: goldShield_27.png
+    spriteName: goldShield_27.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 3c530d994c3eee443b8fdce9452d3e02
+    layerID: 37
+    mosaicPosition: {x: 4, y: 1786}
+  - name: goldShield_28.png
+    spriteName: goldShield_28.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: f491993a9e53f3048ad76479e7272de8
+    layerID: 36
+    mosaicPosition: {x: 4, y: 716}
+  - name: goldShield_29.png
+    spriteName: goldShield_29.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: b4e58eefdd81df040ba00838cfc98bf6
+    layerID: 35
+    mosaicPosition: {x: 4, y: 4}
+  - name: goldShield_30.png
+    spriteName: goldShield_30.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: bf8215e7d3567cd428dbc622a31d2e9b
+    layerID: 34
+    mosaicPosition: {x: 4, y: 360}
+  - name: goldShield_31.png
+    spriteName: goldShield_31.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: fef1cdc286fb93e428a519774c7714aa
+    layerID: 33
+    mosaicPosition: {x: 4, y: 1072}
+  - name: goldShield_32.png
+    spriteName: goldShield_32.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 7d5c11da019535c4a964be96dbe5b6f0
+    layerID: 32
+    mosaicPosition: {x: 4, y: 1428}
+  - name: goldShield_33.png
+    spriteName: goldShield_33.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 36f01ae862804ce43b77fc8eca9bf17c
+    layerID: 31
+    mosaicPosition: {x: 4, y: 2143}
+  - name: goldShield_34.png
+    spriteName: goldShield_34.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: a9f6af1a9a8aa704a80212ad2e838e03
+    layerID: 30
+    mosaicPosition: {x: 293, y: 1038}
+  - name: goldShield_35.png
+    spriteName: goldShield_35.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 3e03b4138e1b3d64780f11b19ec98d6c
+    layerID: 29
+    mosaicPosition: {x: 293, y: 3150}
+  - name: goldShield_36.png
+    spriteName: goldShield_36.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 44b457b016bec194ea0518fcd2965281
+    layerID: 28
+    mosaicPosition: {x: 573, y: 1065}
+  - name: goldShield_37.png
+    spriteName: goldShield_37.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: f8aa9766ee78d2146a5c57668095fe9a
+    layerID: 27
+    mosaicPosition: {x: 573, y: 3196}
+  - name: goldShield_38.png
+    spriteName: goldShield_38.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 1e9aea0c153fd7148b9fd188f6390db1
+    layerID: 26
+    mosaicPosition: {x: 825, y: 358}
+  - name: goldShield_39.png
+    spriteName: goldShield_39.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 99a5b1ff07084a042a29d73d8ad1b16c
+    layerID: 25
+    mosaicPosition: {x: 825, y: 1795}
+  - name: goldShield_40.png
+    spriteName: goldShield_40.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 5d58794995d736b44ab1e5f6bea35e89
+    layerID: 24
+    mosaicPosition: {x: 825, y: 3238}
+  - name: goldShield_41.png
+    spriteName: goldShield_41.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 36ddf5814a24cad419451edffe4be60a
+    layerID: 23
+    mosaicPosition: {x: 1032, y: 1087}
+  - name: goldShield_42.png
+    spriteName: goldShield_42.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 617dc06b5577cd74eb9e023b641c03e1
+    layerID: 22
+    mosaicPosition: {x: 1032, y: 2538}
+  - name: goldShield_43.png
+    spriteName: goldShield_43.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 8011af0dc4c7b1348b1d7de41f7d0b3e
+    layerID: 21
+    mosaicPosition: {x: 1032, y: 3627}
+  - name: goldShield_44.png
+    spriteName: goldShield_44.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: af6dff2354d4e3e408b40a5546cd36ac
+    layerID: 20
+    mosaicPosition: {x: 780, y: 3558}
+  - name: goldShield_45.png
+    spriteName: goldShield_45.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: f38deb5cac68119429dd1f95193dfeee
+    layerID: 19
+    mosaicPosition: {x: 973, y: 3603}
+  - name: goldShield_46.png
+    spriteName: goldShield_46.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 560d77b12ce73254f8ba8541c700ae48
+    layerID: 18
+    mosaicPosition: {x: 1032, y: 2903}
+  - name: goldShield_47.png
+    spriteName: goldShield_47.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 1a46bc45978934244ba398f49ab55b96
+    layerID: 17
+    mosaicPosition: {x: 1032, y: 1451}
+  - name: goldShield_48.png
+    spriteName: goldShield_48.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: cfbe96a2ecec2034f99aebf1cec2f3d0
+    layerID: 16
+    mosaicPosition: {x: 1032, y: 4}
+  - name: goldShield_49.png
+    spriteName: goldShield_49.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: fef3e2f8995a5c94fab1d1e017fab834
+    layerID: 15
+    mosaicPosition: {x: 825, y: 2880}
+  - name: goldShield_50.png
+    spriteName: goldShield_50.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 54884a7940301d540ad0c70742a66550
+    layerID: 14
+    mosaicPosition: {x: 825, y: 1439}
+  - name: goldShield_51.png
+    spriteName: goldShield_51.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 08f0a88625ba82c40821588b9ece54e7
+    layerID: 13
+    mosaicPosition: {x: 573, y: 3558}
+  - name: goldShield_52.png
+    spriteName: goldShield_52.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 273cab8cc05b31149b971a15696b38c2
+    layerID: 12
+    mosaicPosition: {x: 573, y: 2481}
+  - name: goldShield_53.png
+    spriteName: goldShield_53.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 17f50ef05aa63584ba52173427f399ae
+    layerID: 11
+    mosaicPosition: {x: 573, y: 1777}
+  - name: goldShield_54.png
+    spriteName: goldShield_54.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 5c6bd9cefbe194d4ba454caf89422f32
+    layerID: 10
+    mosaicPosition: {x: 573, y: 354}
+  - name: goldShield_55.png
+    spriteName: goldShield_55.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 041c696c66523d1428d86c4deb89ac12
+    layerID: 9
+    mosaicPosition: {x: 293, y: 2452}
+  - name: goldShield_56.png
+    spriteName: goldShield_56.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 322e52cc5e86c8d4fbd01c95294c8f5f
+    layerID: 8
+    mosaicPosition: {x: 293, y: 1757}
+  - name: goldShield_57.png
+    spriteName: goldShield_57.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: ea5bdaeb196290047985511346d8a156
+    layerID: 7
+    mosaicPosition: {x: 293, y: 693}
+  - name: goldShield_58.png
+    spriteName: goldShield_58.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: e1ddc246bb5d3764fa1a39294d80eca0
+    layerID: 6
+    mosaicPosition: {x: 4, y: 3548}
+  - name: goldShield_59.png
+    spriteName: goldShield_59.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 6524712a86271d04ca70be5c8f6c332e
+    layerID: 5
+    mosaicPosition: {x: 293, y: 4}
+  rigPSDLayers:
+  - name: goldShield_00.png
+    spriteName: goldShield_00.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 15c96320a85d9fb49adcf7fbf94494ee
+    layerID: 64
+    mosaicPosition: {x: 4, y: 2860}
+  - name: goldShield_01.png
+    spriteName: goldShield_01.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 79662d539cc96cd42ae42f1ca9e5202e
+    layerID: 63
+    mosaicPosition: {x: 4, y: 3204}
+  - name: goldShield_02.png
+    spriteName: goldShield_02.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: b3cab11eb9f09044d9a8392cfb4a38ab
+    layerID: 62
+    mosaicPosition: {x: 293, y: 348}
+  - name: goldShield_03.png
+    spriteName: goldShield_03.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 0b83a2e34f7e29d4fa956e7c24730035
+    layerID: 61
+    mosaicPosition: {x: 293, y: 2105}
+  - name: goldShield_04.png
+    spriteName: goldShield_04.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: e1b429438f11d2744a8b8a68b23195c9
+    layerID: 60
+    mosaicPosition: {x: 293, y: 2801}
+  - name: goldShield_05.png
+    spriteName: goldShield_05.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 317b37ead3789f844afeaba0864c531b
+    layerID: 59
+    mosaicPosition: {x: 573, y: 4}
+  - name: goldShield_06.png
+    spriteName: goldShield_06.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 51e3afc07dc5d5d4fba8f50b7b960638
+    layerID: 58
+    mosaicPosition: {x: 573, y: 1426}
+  - name: goldShield_07.png
+    spriteName: goldShield_07.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: c410af39696b50545a00ea7136d7f052
+    layerID: 57
+    mosaicPosition: {x: 573, y: 2128}
+  - name: goldShield_08.png
+    spriteName: goldShield_08.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 0804bec7176963e4eb86e77914ebaa3c
+    layerID: 56
+    mosaicPosition: {x: 825, y: 4}
+  - name: goldShield_09.png
+    spriteName: goldShield_09.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 42a3458e414936a4f9ed741adece11bb
+    layerID: 55
+    mosaicPosition: {x: 825, y: 1083}
+  - name: goldShield_10.png
+    spriteName: goldShield_10.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 6603234cbcbc50f468f47fc2e96a63fc
+    layerID: 54
+    mosaicPosition: {x: 825, y: 2522}
+  - name: goldShield_11.png
+    spriteName: goldShield_11.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: a03bb1f39e897d24dbf2c62efa52ad29
+    layerID: 53
+    mosaicPosition: {x: 1032, y: 364}
+  - name: goldShield_12.png
+    spriteName: goldShield_12.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 98558b6cbec50934bb04a9995870bbd0
+    layerID: 52
+    mosaicPosition: {x: 1032, y: 1813}
+  - name: goldShield_13.png
+    spriteName: goldShield_13.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: bacfd237a7125bd49a737c4d1785ed47
+    layerID: 51
+    mosaicPosition: {x: 1032, y: 3266}
+  - name: goldShield_14.png
+    spriteName: goldShield_14.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: b31b8a369c332b941ac3910ba00eab9b
+    layerID: 50
+    mosaicPosition: {x: 973, y: 3238}
+  - name: goldShield_15.png
+    spriteName: goldShield_15.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: d65fd76bf8708e24c9653e7f85c2ca40
+    layerID: 49
+    mosaicPosition: {x: 1171, y: 4}
+  - name: goldShield_16.png
+    spriteName: goldShield_16.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 19e6153a7286f6c4fb8e268567b1d380
+    layerID: 48
+    mosaicPosition: {x: 1095, y: 3627}
+  - name: goldShield_17.png
+    spriteName: goldShield_17.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: e2c9272a500869b4f89f4674cca424d5
+    layerID: 47
+    mosaicPosition: {x: 1032, y: 2173}
+  - name: goldShield_18.png
+    spriteName: goldShield_18.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: af5c092268eaf29428332a1ddf0f32bc
+    layerID: 46
+    mosaicPosition: {x: 1032, y: 723}
+  - name: goldShield_19.png
+    spriteName: goldShield_19.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 5d4452b06fba1f04ca9dda0d751b5e56
+    layerID: 45
+    mosaicPosition: {x: 825, y: 3603}
+  - name: goldShield_20.png
+    spriteName: goldShield_20.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: a022ecaba6befb94cb16dad77fe6c18d
+    layerID: 44
+    mosaicPosition: {x: 825, y: 2159}
+  - name: goldShield_21.png
+    spriteName: goldShield_21.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 257472cef3822454ea0d0ad9e4313eeb
+    layerID: 43
+    mosaicPosition: {x: 825, y: 721}
+  - name: goldShield_22.png
+    spriteName: goldShield_22.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 50d5659f226e58f43a174aaae808b72e
+    layerID: 42
+    mosaicPosition: {x: 573, y: 2834}
+  - name: goldShield_23.png
+    spriteName: goldShield_23.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 9a15b19a871fe9c47bede8edf64e6cc3
+    layerID: 41
+    mosaicPosition: {x: 573, y: 704}
+  - name: goldShield_24.png
+    spriteName: goldShield_24.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 88bd0887c782a074597f6baa46f33582
+    layerID: 40
+    mosaicPosition: {x: 293, y: 3511}
+  - name: goldShield_25.png
+    spriteName: goldShield_25.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: c5ce9caf7e4ec0e45914e27e5883a65f
+    layerID: 39
+    mosaicPosition: {x: 293, y: 1398}
+  - name: goldShield_26.png
+    spriteName: goldShield_26.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: c0f9ac4c0e14e7c409404479c27b3cdc
+    layerID: 38
+    mosaicPosition: {x: 4, y: 2502}
+  - name: goldShield_27.png
+    spriteName: goldShield_27.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 59e567c037d1277469e6c725a633917e
+    layerID: 37
+    mosaicPosition: {x: 4, y: 1786}
+  - name: goldShield_28.png
+    spriteName: goldShield_28.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: ea2a91cd53856e7488dbfd379d51b6d2
+    layerID: 36
+    mosaicPosition: {x: 4, y: 716}
+  - name: goldShield_29.png
+    spriteName: goldShield_29.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 2307f349d2716aa408094b15d0e562c2
+    layerID: 35
+    mosaicPosition: {x: 4, y: 4}
+  - name: goldShield_30.png
+    spriteName: goldShield_30.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 8696e194f585eb0418c804eeb24ea81d
+    layerID: 34
+    mosaicPosition: {x: 4, y: 360}
+  - name: goldShield_31.png
+    spriteName: goldShield_31.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: ac357dadcde7e0647be42b029e966a7d
+    layerID: 33
+    mosaicPosition: {x: 4, y: 1072}
+  - name: goldShield_32.png
+    spriteName: goldShield_32.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: ae9a448e4880642428c6632e49e576ea
+    layerID: 32
+    mosaicPosition: {x: 4, y: 1428}
+  - name: goldShield_33.png
+    spriteName: goldShield_33.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: e7ec55ad31048d34d96774978b29a3f3
+    layerID: 31
+    mosaicPosition: {x: 4, y: 2143}
+  - name: goldShield_34.png
+    spriteName: goldShield_34.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: b89572f339caea6479857adf640eed5f
+    layerID: 30
+    mosaicPosition: {x: 293, y: 1038}
+  - name: goldShield_35.png
+    spriteName: goldShield_35.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: e1c05fe4eb950bf499cc2e2dab635cea
+    layerID: 29
+    mosaicPosition: {x: 293, y: 3150}
+  - name: goldShield_36.png
+    spriteName: goldShield_36.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 72ac13242510c0045bfd31f135cd86fd
+    layerID: 28
+    mosaicPosition: {x: 573, y: 1065}
+  - name: goldShield_37.png
+    spriteName: goldShield_37.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 4b36c7acc0616ee45aa07f23ffcbca1a
+    layerID: 27
+    mosaicPosition: {x: 573, y: 3196}
+  - name: goldShield_38.png
+    spriteName: goldShield_38.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 7005206058ce1ed4ba1e29f0ae257f96
+    layerID: 26
+    mosaicPosition: {x: 825, y: 358}
+  - name: goldShield_39.png
+    spriteName: goldShield_39.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: e6ce023d4aac7f243bc016657cf33c91
+    layerID: 25
+    mosaicPosition: {x: 825, y: 1795}
+  - name: goldShield_40.png
+    spriteName: goldShield_40.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 5fd743644d3d7634aa6fa34e5b1cd448
+    layerID: 24
+    mosaicPosition: {x: 825, y: 3238}
+  - name: goldShield_41.png
+    spriteName: goldShield_41.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 93271545eaa4b6e40adff82f2fd9e374
+    layerID: 23
+    mosaicPosition: {x: 1032, y: 1087}
+  - name: goldShield_42.png
+    spriteName: goldShield_42.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 0a2dafb2e95bc7c4c97d62f6b7bc9638
+    layerID: 22
+    mosaicPosition: {x: 1032, y: 2538}
+  - name: goldShield_43.png
+    spriteName: goldShield_43.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: d88360c31fde9c445817917969be5d59
+    layerID: 21
+    mosaicPosition: {x: 1032, y: 3627}
+  - name: goldShield_44.png
+    spriteName: goldShield_44.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: b95939e15d1332d4da2847097e5da8fa
+    layerID: 20
+    mosaicPosition: {x: 780, y: 3558}
+  - name: goldShield_45.png
+    spriteName: goldShield_45.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: efe79105c2d7d484e93c0c517e173592
+    layerID: 19
+    mosaicPosition: {x: 973, y: 3603}
+  - name: goldShield_46.png
+    spriteName: goldShield_46.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: f60e71369d96f6f48a2e772ebc22c6e6
+    layerID: 18
+    mosaicPosition: {x: 1032, y: 2903}
+  - name: goldShield_47.png
+    spriteName: goldShield_47.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 0778842c13ab070488060bb0ff0b4959
+    layerID: 17
+    mosaicPosition: {x: 1032, y: 1451}
+  - name: goldShield_48.png
+    spriteName: goldShield_48.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 60ed3addcb5d18a46920fc2d3b0acbc6
+    layerID: 16
+    mosaicPosition: {x: 1032, y: 4}
+  - name: goldShield_49.png
+    spriteName: goldShield_49.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 68d139712306bc34cb0da786835e0b44
+    layerID: 15
+    mosaicPosition: {x: 825, y: 2880}
+  - name: goldShield_50.png
+    spriteName: goldShield_50.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 93715106a5b7fe04cb24530aab7c9d5b
+    layerID: 14
+    mosaicPosition: {x: 825, y: 1439}
+  - name: goldShield_51.png
+    spriteName: goldShield_51.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: a1ba18fe6f14cf64a93a85b205a595e2
+    layerID: 13
+    mosaicPosition: {x: 573, y: 3558}
+  - name: goldShield_52.png
+    spriteName: goldShield_52.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: a3a2dedb49433c14c8eaba359f61e13b
+    layerID: 12
+    mosaicPosition: {x: 573, y: 2481}
+  - name: goldShield_53.png
+    spriteName: goldShield_53.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 1b1842dc4eff535429bbc3b87e5acec6
+    layerID: 11
+    mosaicPosition: {x: 573, y: 1777}
+  - name: goldShield_54.png
+    spriteName: goldShield_54.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: e6bf54a7397d46f4187c6986391431da
+    layerID: 10
+    mosaicPosition: {x: 573, y: 354}
+  - name: goldShield_55.png
+    spriteName: goldShield_55.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: e90b2e59ce3043048bf0f97e27513a1e
+    layerID: 9
+    mosaicPosition: {x: 293, y: 2452}
+  - name: goldShield_56.png
+    spriteName: goldShield_56.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 3e6eae2b2660d484eb4922dc5b5a10a1
+    layerID: 8
+    mosaicPosition: {x: 293, y: 1757}
+  - name: goldShield_57.png
+    spriteName: goldShield_57.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 2876fbf9f8221f34f9e5165e30be0bcb
+    layerID: 7
+    mosaicPosition: {x: 293, y: 693}
+  - name: goldShield_58.png
+    spriteName: goldShield_58.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 40b02bff3b02a604f836113bf8c5ffff
+    layerID: 6
+    mosaicPosition: {x: 4, y: 3548}
+  - name: goldShield_59.png
+    spriteName: goldShield_59.png
+    isGroup: 0
+    parentIndex: -1
+    spriteID: ac4e6a0ac32d3454cbc44c020e792bfe
+    layerID: 5
+    mosaicPosition: {x: 293, y: 4}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+  generateGOHierarchy: 0
+  textureAssetName: gold Texture
+  prefabAssetName: gold Prefab
+  spriteLibAssetName: gold Sprite Lib
+  secondarySpriteTextures: []

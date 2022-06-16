@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b0a4619056ce0a41b10763404218615, type: 3}
+  m_Name: API
+  m_EditorClassIdentifier: 
+  base_url: https://tiki-taka.falkanas.com/api/
+  intro_id: 961
+  ListAPI:
+  - {fileID: 11400000, guid: d56b206c6f3ab1f4e9d8a859769f1555, type: 2}
+  - {fileID: 11400000, guid: f3aac6b774f7bc445b4dc757d951b70d, type: 2}
+  - {fileID: 11400000, guid: e21abe90d3342d747ae11aa7588da4e2, type: 2}
+  - {fileID: 11400000, guid: 8b55264af74c444439160c8729cbdf39, type: 2}
+  - {fileID: 11400000, guid: d8f5e90c34b7fa74193a76e3c9729cfc, type: 2}
+  - {fileID: 11400000, guid: 9207693cb02a9a148b5bf529cbf65865, type: 2}
+  - {fileID: 11400000, guid: fa6250e132a24d0468d99f23f133a25c, type: 2}
+  - {fileID: 11400000, guid: 11f01c00e29e2e947950c6ebab4e0aa5, type: 2}
+  - {fileID: 11400000, guid: 741b919bb86d8494f9da7befa0a07ef5, type: 2}
+  - {fileID: 11400000, guid: 6fe73a76a6966534a8a896e2d1ea0c89, type: 2}
+  - {fileID: 11400000, guid: 4fafc2efed2dfc4418c08755c853dc0d, type: 2}
+  - {fileID: 11400000, guid: 6f9f2321ee05d134c88877ba4483083d, type: 2}
+  - {fileID: 11400000, guid: 2a3b349e03411c846880d41c54b7f457, type: 2}
+  - {fileID: 11400000, guid: 7836249b3a3c0904ebf5e7c3dce32725, type: 2}
+  - {fileID: 11400000, guid: bb6d114a375097e49973a0176ba10999, type: 2}

@@ -1,0 +1,851 @@
+fileFormatVersion: 2
+guid: 7bba607392b92a3489a2790fd61b929e
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 0
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: Tutorial_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 347
+      height: 167
+    spriteID: 
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData:
+  - name: invisible
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 178
+      width: 162
+      height: 132
+    spriteID: b7dc7bc7719ae6f409598e560a0a8fce
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -59, y: 150}
+  - name: HUD
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 456
+      y: 91
+      width: 289
+      height: 66
+    spriteID: abc0b332382ab8d42b12cc9dbc22f9c5
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 448, y: 1}
+  - name: Left_Right_Controller
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 223
+      y: 4
+      width: 225
+      height: 118
+    spriteID: c1a03e78c70eb78459c2bbedc7164b9e
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 223, y: -45}
+  - name: btnPause
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 333
+      y: 178
+      width: 178
+      height: 92
+    spriteID: ce6515b1f8659e947b37199c826786b9
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 333, y: 103}
+  - name: Perisai_Quiz
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 174
+      y: 178
+      width: 151
+      height: 129
+    spriteID: f3d0020047777254e8cb31c56fce7fed
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 128, y: 152}
+  - name: Waktu_Quiz
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 519
+      y: 178
+      width: 120
+      height: 120
+    spriteID: da5f22b32cb46e94fa8ed098f524e72e
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 473, y: 152}
+  - name: Level_Quiz
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 875
+      y: 178
+      width: 131
+      height: 70
+    spriteID: e281406a299ed994a904674eb657cfdc
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 862, y: 154}
+  - name: difficulty
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 456
+      y: 4
+      width: 325
+      height: 79
+    spriteID: cd91ab5a8385ac9469c7439b163d509c
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 456, y: -84}
+  - name: obstacles
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 775
+      y: 178
+      width: 92
+      height: 123
+    spriteID: 33ff5c208e1e16147a4e7c40696ebf97
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 649, y: 156}
+  - name: obstacle
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 647
+      y: 178
+      width: 120
+      height: 99
+    spriteID: 57c6c55ba9b71fe4ba20a1fe3cb31656
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 534, y: 144}
+  - name: papan_kayu
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 211
+      height: 166
+    spriteID: e8f8d6099def9dc428bd383554ec9d9b
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -64, y: 3}
+  - name: Tercebur
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 789
+      y: 4
+      width: 199
+      height: 125
+    spriteID: f1e9c2c307f2ea44cb02398b6eb35fa7
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 715, y: -17}
+  rigSpriteImportData:
+  - name: invisible
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 178
+      width: 162
+      height: 132
+    spriteID: f3a0fb7b1509e7e4dbb9db5d7b91fffd
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -59, y: 150}
+  - name: HUD
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 456
+      y: 91
+      width: 289
+      height: 66
+    spriteID: c000534b21559ba43a0f666418691137
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 448, y: 1}
+  - name: Left_Right_Controller
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 223
+      y: 4
+      width: 225
+      height: 118
+    spriteID: d7a7345109852e9409f5229c7683f94a
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 223, y: -45}
+  - name: btnPause
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 333
+      y: 178
+      width: 178
+      height: 92
+    spriteID: 0328edf96da0a114788e2096c446b3d3
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 333, y: 103}
+  - name: Perisai_Quiz
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 174
+      y: 178
+      width: 151
+      height: 129
+    spriteID: 8e877f8b618851545bba36a4f2ed78b9
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 128, y: 152}
+  - name: Waktu_Quiz
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 519
+      y: 178
+      width: 120
+      height: 120
+    spriteID: dd3788d7c4eb1bc4184e4dca8600cca4
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 473, y: 152}
+  - name: Level_Quiz
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 875
+      y: 178
+      width: 131
+      height: 70
+    spriteID: 6067a102115f4e3408f23f28068e18bf
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 862, y: 154}
+  - name: difficulty
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 456
+      y: 4
+      width: 325
+      height: 79
+    spriteID: 5944e75a5691f5b4c9535f53450eac1f
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 456, y: -84}
+  - name: obstacles
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 775
+      y: 178
+      width: 92
+      height: 123
+    spriteID: 87883747535dbd746a540923e71987cc
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 649, y: 156}
+  - name: obstacle
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 647
+      y: 178
+      width: 120
+      height: 99
+    spriteID: c002b5c5f92b8a64ba544aaefdcee00a
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 534, y: 144}
+  - name: papan_kayu
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 211
+      height: 166
+    spriteID: 2c22cda6540b61d468a5a50860484a20
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -64, y: 3}
+  - name: Tercebur
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 789
+      y: 4
+      width: 199
+      height: 125
+    spriteID: 8f08a9453f1a3034d959bcff2e138aa6
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 715, y: -17}
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Android
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  mosaicLayers: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  importedTextureWidth: 1024
+  importedTextureHeight: 1024
+  documentSize: {x: 347, y: 167}
+  paperDollMode: 0
+  keepDupilcateSpriteName: 0
+  spriteCategoryList:
+    categories: []
+  textureActualWidth: 1024
+  textureActualHeight: 1024
+  spritePackingTag: 
+  resliceFromLayer: 0
+  characterMode: 0
+  mosaicPSDLayers:
+  - name: invisible
+    spriteName: invisible
+    isGroup: 0
+    parentIndex: -1
+    spriteID: b7dc7bc7719ae6f409598e560a0a8fce
+    layerID: 13
+    mosaicPosition: {x: 4, y: 178}
+  - name: HUD
+    spriteName: HUD
+    isGroup: 0
+    parentIndex: -1
+    spriteID: abc0b332382ab8d42b12cc9dbc22f9c5
+    layerID: 4
+    mosaicPosition: {x: 456, y: 91}
+  - name: Left_Right_Controller
+    spriteName: Left_Right_Controller
+    isGroup: 0
+    parentIndex: -1
+    spriteID: c1a03e78c70eb78459c2bbedc7164b9e
+    layerID: 7
+    mosaicPosition: {x: 223, y: 4}
+  - name: btnPause
+    spriteName: btnPause
+    isGroup: 0
+    parentIndex: -1
+    spriteID: ce6515b1f8659e947b37199c826786b9
+    layerID: 8
+    mosaicPosition: {x: 333, y: 178}
+  - name: Perisai_Quiz
+    spriteName: Perisai_Quiz
+    isGroup: 0
+    parentIndex: -1
+    spriteID: f3d0020047777254e8cb31c56fce7fed
+    layerID: 9
+    mosaicPosition: {x: 174, y: 178}
+  - name: Waktu_Quiz
+    spriteName: Waktu_Quiz
+    isGroup: 0
+    parentIndex: -1
+    spriteID: da5f22b32cb46e94fa8ed098f524e72e
+    layerID: 10
+    mosaicPosition: {x: 519, y: 178}
+  - name: Level_Quiz
+    spriteName: Level_Quiz
+    isGroup: 0
+    parentIndex: -1
+    spriteID: e281406a299ed994a904674eb657cfdc
+    layerID: 11
+    mosaicPosition: {x: 875, y: 178}
+  - name: difficulty
+    spriteName: difficulty
+    isGroup: 0
+    parentIndex: -1
+    spriteID: cd91ab5a8385ac9469c7439b163d509c
+    layerID: 12
+    mosaicPosition: {x: 456, y: 4}
+  - name: obstacles
+    spriteName: obstacles
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 33ff5c208e1e16147a4e7c40696ebf97
+    layerID: 15
+    mosaicPosition: {x: 775, y: 178}
+  - name: obstacle
+    spriteName: obstacle
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 57c6c55ba9b71fe4ba20a1fe3cb31656
+    layerID: 16
+    mosaicPosition: {x: 647, y: 178}
+  - name: papan_kayu
+    spriteName: papan_kayu
+    isGroup: 0
+    parentIndex: -1
+    spriteID: e8f8d6099def9dc428bd383554ec9d9b
+    layerID: 18
+    mosaicPosition: {x: 4, y: 4}
+  - name: Tercebur
+    spriteName: Tercebur
+    isGroup: 0
+    parentIndex: -1
+    spriteID: f1e9c2c307f2ea44cb02398b6eb35fa7
+    layerID: 17
+    mosaicPosition: {x: 789, y: 4}
+  rigPSDLayers:
+  - name: invisible
+    spriteName: invisible
+    isGroup: 0
+    parentIndex: -1
+    spriteID: f3a0fb7b1509e7e4dbb9db5d7b91fffd
+    layerID: 13
+    mosaicPosition: {x: 4, y: 178}
+  - name: HUD
+    spriteName: HUD
+    isGroup: 0
+    parentIndex: -1
+    spriteID: c000534b21559ba43a0f666418691137
+    layerID: 4
+    mosaicPosition: {x: 456, y: 91}
+  - name: Left_Right_Controller
+    spriteName: Left_Right_Controller
+    isGroup: 0
+    parentIndex: -1
+    spriteID: d7a7345109852e9409f5229c7683f94a
+    layerID: 7
+    mosaicPosition: {x: 223, y: 4}
+  - name: btnPause
+    spriteName: btnPause
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 0328edf96da0a114788e2096c446b3d3
+    layerID: 8
+    mosaicPosition: {x: 333, y: 178}
+  - name: Perisai_Quiz
+    spriteName: Perisai_Quiz
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 8e877f8b618851545bba36a4f2ed78b9
+    layerID: 9
+    mosaicPosition: {x: 174, y: 178}
+  - name: Waktu_Quiz
+    spriteName: Waktu_Quiz
+    isGroup: 0
+    parentIndex: -1
+    spriteID: dd3788d7c4eb1bc4184e4dca8600cca4
+    layerID: 10
+    mosaicPosition: {x: 519, y: 178}
+  - name: Level_Quiz
+    spriteName: Level_Quiz
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 6067a102115f4e3408f23f28068e18bf
+    layerID: 11
+    mosaicPosition: {x: 875, y: 178}
+  - name: difficulty
+    spriteName: difficulty
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 5944e75a5691f5b4c9535f53450eac1f
+    layerID: 12
+    mosaicPosition: {x: 456, y: 4}
+  - name: obstacles
+    spriteName: obstacles
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 87883747535dbd746a540923e71987cc
+    layerID: 15
+    mosaicPosition: {x: 775, y: 178}
+  - name: obstacle
+    spriteName: obstacle
+    isGroup: 0
+    parentIndex: -1
+    spriteID: c002b5c5f92b8a64ba544aaefdcee00a
+    layerID: 16
+    mosaicPosition: {x: 647, y: 178}
+  - name: papan_kayu
+    spriteName: papan_kayu
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 2c22cda6540b61d468a5a50860484a20
+    layerID: 18
+    mosaicPosition: {x: 4, y: 4}
+  - name: Tercebur
+    spriteName: Tercebur
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 8f08a9453f1a3034d959bcff2e138aa6
+    layerID: 17
+    mosaicPosition: {x: 789, y: 4}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+  generateGOHierarchy: 0
+  textureAssetName: Tutorial Texture
+  prefabAssetName: Tutorial Prefab
+  spriteLibAssetName: Tutorial Sprite Lib
+  secondarySpriteTextures: []

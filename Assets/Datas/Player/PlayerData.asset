@@ -1,0 +1,172 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 759d96cf2b2546742a6096780c731b6e, type: 3}
+  m_Name: PlayerData
+  m_EditorClassIdentifier: 
+  PlayerProfileData:
+    StudentName: Ray Aldo
+    StudentClass: 3
+    StudentSchool: Dummy school 3
+    ParentWhatsapp: 082120455655
+    StudentWhatsapp: 08123456789
+  PlayerAccountData:
+    person_category_id: 1
+    category: student
+  PlayerCurrencyData:
+    TotalCoins: 0
+    TotalGems: 0
+    TotalPoints: 0
+    TotalDiamonds: 0
+    TotalKey: 0
+  PlayerSubscriptionData:
+    SubscriptionEndDate: 2022-06-08
+    RewardPoint: 0
+    ReferralCode: REF0003
+  PlayerStageSelectionDataList:
+  - StageId: 1_1
+    TotalStars: 0
+    IsUnlocked: 1
+    IsCleared: 0
+    IsBossStage: 0
+  - StageId: 1_2
+    TotalStars: 0
+    IsUnlocked: 0
+    IsCleared: 0
+    IsBossStage: 0
+  - StageId: 1_3
+    TotalStars: 0
+    IsUnlocked: 0
+    IsCleared: 0
+    IsBossStage: 0
+  - StageId: 1_4
+    TotalStars: 0
+    IsUnlocked: 0
+    IsCleared: 0
+    IsBossStage: 0
+  - StageId: 1_5
+    TotalStars: 0
+    IsUnlocked: 0
+    IsCleared: 0
+    IsBossStage: 0
+  - StageId: 1_6
+    TotalStars: 0
+    IsUnlocked: 0
+    IsCleared: 0
+    IsBossStage: 0
+  - StageId: 1_7
+    TotalStars: 0
+    IsUnlocked: 0
+    IsCleared: 0
+    IsBossStage: 0
+  - StageId: 1_8
+    TotalStars: 0
+    IsUnlocked: 0
+    IsCleared: 0
+    IsBossStage: 0
+  - StageId: 1_Boss
+    TotalStars: 0
+    IsUnlocked: 0
+    IsCleared: 0
+    IsBossStage: 0
+  HeroesOwnedDataList:
+  - Name: Brizio_Blue_M
+    IsSelected: 0
+    IsUnlocked: 0
+    Level: 1
+    LevelCap: 1
+    DuplicateCard: 0
+    TimeToRankUp: 0
+  - Name: Aruna_Blue_F
+    IsSelected: 1
+    IsUnlocked: 1
+    Level: 1
+    LevelCap: 1
+    DuplicateCard: 1
+    TimeToRankUp: 0
+  - Name: Rocky_Green_M
+    IsSelected: 0
+    IsUnlocked: 0
+    Level: 1
+    LevelCap: 1
+    DuplicateCard: 0
+    TimeToRankUp: 0
+  - Name: Rhea_Green_F
+    IsSelected: 0
+    IsUnlocked: 0
+    Level: 1
+    LevelCap: 1
+    DuplicateCard: 0
+    TimeToRankUp: 0
+  - Name: Blaze_Red_M
+    IsSelected: 0
+    IsUnlocked: 0
+    Level: 1
+    LevelCap: 1
+    DuplicateCard: 0
+    TimeToRankUp: 0
+  - Name: Flarion_Red_F
+    IsSelected: 0
+    IsUnlocked: 0
+    Level: 1
+    LevelCap: 1
+    DuplicateCard: 0
+    TimeToRankUp: 0
+  - Name: Skye_Yellow_M
+    IsSelected: 0
+    IsUnlocked: 0
+    Level: 1
+    LevelCap: 1
+    DuplicateCard: 0
+    TimeToRankUp: 0
+  - Name: Aura_Yellow_F
+    IsSelected: 0
+    IsUnlocked: 0
+    Level: 1
+    LevelCap: 1
+    DuplicateCard: 0
+    TimeToRankUp: 0
+  TroopsOwnedDataList:
+  - Name: Acid Bee
+    IsSelected: 0
+    IsUnlocked: 0
+    Level: 1
+    LevelCap: 1
+    DuplicateCard: 0
+    TimeToRankUp: 0
+  - Name: Gun Eater
+    IsSelected: 0
+    IsUnlocked: 0
+    Level: 4
+    LevelCap: 1
+    DuplicateCard: 0
+    TimeToRankUp: 0
+  - Name: Meow Beam
+    IsSelected: 0
+    IsUnlocked: 0
+    Level: 1
+    LevelCap: 1
+    DuplicateCard: 0
+    TimeToRankUp: 0
+  - Name: Shock Plane
+    IsSelected: 0
+    IsUnlocked: 0
+    Level: 2
+    LevelCap: 1
+    DuplicateCard: 0
+    TimeToRankUp: 0
+  - Name: Piercing Tank
+    IsSelected: 0
+    IsUnlocked: 0
+    Level: 4
+    LevelCap: 1
+    DuplicateCard: 0
+    TimeToRankUp: 0

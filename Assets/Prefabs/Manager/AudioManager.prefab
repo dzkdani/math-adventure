@@ -1,0 +1,131 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &739854891312285826
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 739854891312285824}
+  - component: {fileID: 739854891312285825}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &739854891312285824
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 739854891312285826}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &739854891312285825
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 739854891312285826}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5ee8d3cb2c1cde2418f3bc06a21fa6f1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SFXDataList:
+  - SFXType: 0
+    AudioClip: {fileID: 8300000, guid: b9d75d9d31f02a54fa5bc8a8c79ef081, type: 3}
+    audioMixerGroup: {fileID: 6065688906330656146, guid: d7e6237084c0ca3438bf362b521a4aae,
+      type: 2}
+    Volume: 1
+    playOnAwake: 1
+    loop: 0
+    scenes: []
+  - SFXType: 1
+    AudioClip: {fileID: 8300000, guid: 14a6327e0f1a82f45ade558b03bffeba, type: 3}
+    audioMixerGroup: {fileID: -6952945467463785382, guid: d7e6237084c0ca3438bf362b521a4aae,
+      type: 2}
+    Volume: 1
+    playOnAwake: 1
+    loop: 1
+    scenes:
+    - QuizRoom
+    - QuizQuestion
+    - HomeMenuScene
+    - LevelQuizScene
+    - QuestionScene
+  - SFXType: 1
+    AudioClip: {fileID: 8300000, guid: dac4381dfa6d4c243bf6c49c897e8a5e, type: 3}
+    audioMixerGroup: {fileID: -6952945467463785382, guid: d7e6237084c0ca3438bf362b521a4aae,
+      type: 2}
+    Volume: 1
+    playOnAwake: 1
+    loop: 1
+    scenes:
+    - GameMenu
+    - MainMenu
+    - MM
+  - SFXType: 1
+    AudioClip: {fileID: 8300000, guid: dac4381dfa6d4c243bf6c49c897e8a5e, type: 3}
+    audioMixerGroup: {fileID: -6952945467463785382, guid: d7e6237084c0ca3438bf362b521a4aae,
+      type: 2}
+    Volume: 0.3
+    playOnAwake: 1
+    loop: 1
+    scenes: []
+  - SFXType: 0
+    AudioClip: {fileID: 8300000, guid: 0945a6f9c7c8a1d4e9d7ef5cf6d9aac0, type: 3}
+    audioMixerGroup: {fileID: 6065688906330656146, guid: d7e6237084c0ca3438bf362b521a4aae,
+      type: 2}
+    Volume: 1
+    playOnAwake: 1
+    loop: 0
+    scenes: []
+  - SFXType: 0
+    AudioClip: {fileID: 8300000, guid: a74ffa92dc7d7f04384a61afaf36fa91, type: 3}
+    audioMixerGroup: {fileID: 6065688906330656146, guid: d7e6237084c0ca3438bf362b521a4aae,
+      type: 2}
+    Volume: 1
+    playOnAwake: 1
+    loop: 0
+    scenes: []
+  - SFXType: 0
+    AudioClip: {fileID: 8300000, guid: 5f4844129467ef448b96d25323f0a8a5, type: 3}
+    audioMixerGroup: {fileID: 6065688906330656146, guid: d7e6237084c0ca3438bf362b521a4aae,
+      type: 2}
+    Volume: 1
+    playOnAwake: 1
+    loop: 0
+    scenes: []
+  - SFXType: 1
+    AudioClip: {fileID: 8300000, guid: fff56ed661b2955409784fdbdc420845, type: 3}
+    audioMixerGroup: {fileID: -6952945467463785382, guid: d7e6237084c0ca3438bf362b521a4aae,
+      type: 2}
+    Volume: 1
+    playOnAwake: 1
+    loop: 1
+    scenes:
+    - Intro
+    - map
+  - SFXType: 1
+    AudioClip: {fileID: 8300000, guid: fff56ed661b2955409784fdbdc420845, type: 3}
+    audioMixerGroup: {fileID: -6952945467463785382, guid: d7e6237084c0ca3438bf362b521a4aae,
+      type: 2}
+    Volume: 0.3
+    playOnAwake: 1
+    loop: 1
+    scenes:
+    - HeroesCharge
+  IsMute: 0
+  sfxSourceList: []

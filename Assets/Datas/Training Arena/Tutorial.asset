@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcd7c8b9b35c6864fabd3fa3f08ec3bc, type: 3}
+  m_Name: Tutorial
+  m_EditorClassIdentifier: 
+  terrainIDs:
+  - terrain: {fileID: 1023433254821585335, guid: ef60a2158d455354fb7bf0dd17894138,
+      type: 3}
+    nama: M1_Box
+    jarak: 10
+  - terrain: {fileID: 4716730307066416285, guid: ed2804dfe3c8a9847b63aae78462172b,
+      type: 3}
+    nama: KI1_Kosong
+    jarak: 5
+  - terrain: {fileID: 8311716941755527844, guid: fa066890462d69c459caa1d237d858c5,
+      type: 3}
+    nama: KP1_Kosong
+    jarak: 5
+  - terrain: {fileID: 7681683878951702599, guid: 6d1ab4b63555fcb46ab091956c206260,
+      type: 3}
+    nama: S2_Sungai
+    jarak: 10
+  - terrain: {fileID: 4012501444258181115, guid: cf0b13c8e83ec334684c4f1392750902,
+      type: 3}
+    nama: G2_Gada
+    jarak: 10
+  - terrain: {fileID: 439286256806698230, guid: a56b7c3468b87ea4a942a5dd628fa3a8,
+      type: 3}
+    nama: R4
+    jarak: 5
+  - terrain: {fileID: 3564457892456199765, guid: 1d260a0a265e35d44a6611e29337befc,
+      type: 3}
+    nama: K1_Kosong
+    jarak: 5
+  terrainSets:
+  - tSets: 06000000000000000200000001000000030000000400000005000000
+  - tSets: 06000000000000000200000001000000030000000400000005000000
+  - tSets: 06000000000000000200000001000000030000000400000005000000
+  - tSets: 06000000000000000200000001000000030000000400000005000000

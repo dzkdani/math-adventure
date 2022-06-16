@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "25240584975",
+    "project_id": "math-adventure-d9875",
+    "storage_bucket": "math-adventure-d9875.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25240584975:android:1960893da5c381cf96b47a",
+        "android_client_info": {
+          "package_name": "com.falkanastudio.mathadventure"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25240584975-o0uj1j5pmg2cmema3duamp9f3h3a4vm0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_ffbGr8iRDOvUsVmq7v6OwVMXCMAQFig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "25240584975-o0uj1j5pmg2cmema3duamp9f3h3a4vm0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5437e315c53e9494384968d1307407df, type: 3}
+  m_Name: Snake
+  m_EditorClassIdentifier: 
+  Name: Snake
+  AttackType: 1
+  Icon: {fileID: 0}
+  Model: {fileID: 1238868971118149316, guid: 1fa009728f2375541b571185fca2e74d, type: 3}
+  Projectile: {fileID: 459877595237736541, guid: 91cd5c3d9193a174fbee180f693930d0,
+    type: 3}
+  RankIcons:
+  - {fileID: 21300000, guid: 718074e4e56a5404e824bf8e6571ea7d, type: 3}
+  - {fileID: 21300000, guid: 718074e4e56a5404e824bf8e6571ea7d, type: 3}
+  - {fileID: 21300000, guid: 718074e4e56a5404e824bf8e6571ea7d, type: 3}
+  - {fileID: 21300000, guid: 718074e4e56a5404e824bf8e6571ea7d, type: 3}
+  RankModels: []
+  Level: 1
+  BaseHP: 60
+  IncreaseHP: 3
+  BaseATK: 9
+  IncreaseATK: 3
+  BaseDEF: 2
+  IncreaseDEF: 1
+  BaseATKSPD: 5
+  BaseMOVSPD: 2
+  BaseATKRANGE: 15

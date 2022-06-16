@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2025455021248032011
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2025455021248032013}
+  - component: {fileID: 2025455021248032012}
+  m_Layer: 0
+  m_Name: QuizDataManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2025455021248032013
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2025455021248032011}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2025455021248032012
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2025455021248032011}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb7eb7a3e6a5bc444834c2ad846388da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  IsResetQuizData: 0
+  StudyRoomQuizList:
+  - {fileID: 11400000, guid: 2f1a704adc69ed549bd8e3e49a71dbf0, type: 2}
+  - {fileID: 11400000, guid: 9e4edf241235b104f84265bd2ec218ef, type: 2}
+  TreasureRoomQuizList:
+  - {fileID: 11400000, guid: 97c426f7d257a684b8aecda123fa341d, type: 2}
+  ActiveClassList: 03000000040000000500000006000000
+  studyRoomRewards:
+  - mark: 6
+    reward: 3
+    afterQuiz_reward: 0
+  - mark: 7
+    reward: 4
+    afterQuiz_reward: 1
+  - mark: 8
+    reward: 8
+    afterQuiz_reward: 1
+  - mark: 9
+    reward: 12
+    afterQuiz_reward: 2
+  - mark: 10
+    reward: 16
+    afterQuiz_reward: 3
+  treasureRoomMarks:
+  - mark: 0
+    reward: 50
+    afterQuiz_reward: 0
+  - mark: 1
+    reward: 60
+    afterQuiz_reward: 0
+  - mark: 2
+    reward: 60
+    afterQuiz_reward: 0
+  - mark: 3
+    reward: 65
+    afterQuiz_reward: 0
+  - mark: 4
+    reward: 65
+    afterQuiz_reward: 0
+  - mark: 5
+    reward: 70
+    afterQuiz_reward: 0
+  - mark: 6
+    reward: 70
+    afterQuiz_reward: 0
+  - mark: 7
+    reward: 75
+    afterQuiz_reward: 0
+  TotalCorrectAnswersToGetReward: 8
+  Multiplier_Reward_StudyRoom: 0.5
+  Multiplier_Reward_TreasureRoom: 0.5
+  Multiplier_Mark_StudyRoom: 100
+  Multiplier_Mark_TreasureRoom: 10
+  CurrentStudentQuizRoom: 1
+  CurrentStudentClass: 2
+  CurrentStudentSemester: 0
+  CurrentStudentMainBabId: 
+  CurrentStudentMainBabTitle: 
+  CurrentStudentSubBabId: 
+  CurrentStudentSubBabTitle: 

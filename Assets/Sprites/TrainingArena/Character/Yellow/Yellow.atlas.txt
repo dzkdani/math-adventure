@@ -1,0 +1,98 @@
+Yellow.png
+size:498,528
+filter:Linear,Linear
+pma:true
+boyYellow for dragonbones/armL
+bounds:198,117,15,27
+boyYellow for dragonbones/armR
+bounds:472,86,20,23
+boyYellow for dragonbones/body
+bounds:263,58,63,56
+boyYellow for dragonbones/footL
+bounds:264,326,33,40
+rotate:90
+boyYellow for dragonbones/footR
+bounds:169,324,35,40
+rotate:90
+boyYellow for dragonbones/handL
+bounds:355,4,18,51
+boyYellow for dragonbones/handR
+bounds:185,28,24,59
+rotate:90
+boyYellow for dragonbones/head
+bounds:384,111,105,105
+boyYellow for dragonbones/tight
+bounds:328,9,46,25
+rotate:90
+boyYellow for dragonbones/tightL
+bounds:185,2,24,38
+rotate:90
+boyYellow for dragonbones/tightR
+bounds:277,9,26,42
+rotate:90
+boyYellow forward/body_forward
+bounds:124,3,52,59
+rotate:90
+boyYellow forward/handL_forward
+bounds:306,330,29,69
+rotate:90
+boyYellow forward/handR_forward
+bounds:263,37,19,63
+rotate:90
+boyYellow forward/head_forward
+bounds:384,218,109,109
+boyYellow forward/tight_forward
+bounds:378,329,73,84
+rotate:90
+boyYellow left/left
+bounds:2,313,165,213
+boyYellow right/right
+bounds:2,146,165,213
+rotate:90
+girlYellow for dragonbones/armL
+bounds:93,4,21,25
+rotate:90
+girlYellow for dragonbones/armR
+bounds:67,3,22,24
+rotate:90
+girlYellow for dragonbones/body
+bounds:198,54,63,60
+offsets:0,0,64,60
+girlYellow for dragonbones/footL
+bounds:440,61,30,48
+girlYellow for dragonbones/footR
+bounds:211,325,34,51
+rotate:90
+girlYellow for dragonbones/handL
+bounds:438,41,18,42
+rotate:90
+girlYellow for dragonbones/handR
+bounds:380,85,24,58
+rotate:90
+girlYellow for dragonbones/head
+bounds:378,404,118,122
+girlYellow for dragonbones/tight
+bounds:380,35,48,29
+rotate:90
+girlYellow for dragonbones/tightL
+bounds:411,56,25,27
+girlYellow for dragonbones/tightR
+bounds:246,8,27,29
+rotate:90
+girlYellow forward/body_forward
+bounds:328,57,50,57
+girlYellow forward/handL_forward
+bounds:464,331,28,71
+girlYellow forward/handR_forward
+bounds:2,2,23,63
+rotate:90
+girlYellow forward/head_forward
+bounds:2,27,117,120
+rotate:90
+girlYellow forward/tight_forward
+bounds:124,57,72,87
+girlYellow left/left
+bounds:169,361,165,207
+rotate:90
+girlYellow right/right
+bounds:217,116,165,207

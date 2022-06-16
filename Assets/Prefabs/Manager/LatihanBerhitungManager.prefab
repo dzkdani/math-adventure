@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3591136661676171267
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3657404017021763169}
+  - component: {fileID: 7043838274435911316}
+  - component: {fileID: -3128447408101977497}
+  m_Layer: 0
+  m_Name: LatihanBerhitungManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3657404017021763169
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3591136661676171267}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7043838274435911316
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3591136661676171267}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c7e8ca17ed64ab41a78c6957614002c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  RaporData: {fileID: 11400000, guid: 97832f2602e2f3641abe6ca5b63a0e8a, type: 2}
+  File: {fileID: 4900000, guid: 02712058793a5cf49bdc155939c3e9f3, type: 3}
+  CurrentKategoriData:
+    nama: 
+    skor: 0
+    bintang: 0
+    MinLevel: 0
+    MaxLevel: 0
+    soalTergarap: 0
+    sangatBaik: 0
+    Baik: 0
+    Cukup: 0
+  rowList: []
+--- !u!114 &-3128447408101977497
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3591136661676171267}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d088ea2442e285e47b722c131360b844, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SetList: {fileID: 11400000, guid: f49cdfa50df04484e90a9c66cec296e0, type: 2}
+  CurrHeroSelect: 
+  POWERUP: 1
+  isKOTAKON: 0
+  DebugHighScore: 0
+  isShowSetName: 0

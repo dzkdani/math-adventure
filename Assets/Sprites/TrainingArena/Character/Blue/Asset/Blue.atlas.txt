@@ -1,0 +1,100 @@
+Blue.png
+size:1056,276
+filter:Linear,Linear
+pma:true
+boyBlue for dragonbones/armL
+bounds:888,81,25,32
+offsets:0,1,25,33
+boyBlue for dragonbones/armR
+bounds:892,52,22,27
+boyBlue for dragonbones/body
+bounds:766,5,67,61
+boyBlue for dragonbones/footL
+bounds:517,2,32,41
+rotate:90
+boyBlue for dragonbones/footR
+bounds:148,3,35,45
+rotate:90
+boyBlue for dragonbones/handL
+bounds:895,130,18,41
+offsets:0,1,18,42
+rotate:90
+boyBlue for dragonbones/handR
+bounds:316,10,28,50
+rotate:90
+boyBlue for dragonbones/head
+bounds:804,150,124,119
+rotate:90
+boyBlue for dragonbones/tight
+bounds:264,9,50,29
+boyBlue for dragonbones/tightL
+bounds:670,15,24,41
+boyBlue for dragonbones/tightR
+bounds:601,10,27,43
+rotate:90
+boyBlue forward/body_forward
+bounds:835,9,55,60
+boyBlue forward/handL_forward
+bounds:2,10,28,72
+rotate:90
+boyBlue forward/handR_forward
+bounds:195,15,23,67
+offsets:0,1,23,68
+rotate:90
+boyBlue forward/head_forward
+bounds:925,156,125,118
+boyBlue forward/tight_forward
+bounds:684,68,75,91
+offsets:0,1,75,92
+rotate:90
+boyBlue left/left
+bounds:2,40,176,234
+offsets:0,1,176,235
+boyBlue right/right
+bounds:180,40,176,234
+offsets:0,1,176,235
+char girl for dragonbones/armL
+bounds:938,130,24,24
+char girl for dragonbones/armR
+bounds:915,101,22,27
+char girl for dragonbones/body
+bounds:696,2,68,64
+char girl for dragonbones/footL
+bounds:560,4,30,39
+rotate:90
+char girl for dragonbones/footR
+bounds:864,115,29,33
+char girl for dragonbones/handL
+bounds:584,39,17,51
+rotate:90
+char girl for dragonbones/handR
+bounds:490,3,25,53
+char girl for dragonbones/head
+bounds:939,3,125,115
+rotate:90
+char girl for dragonbones/tight
+bounds:426,15,62,41
+char girl for dragonbones/tightL
+bounds:864,76,22,37
+offsets:0,0,24,37
+char girl for dragonbones/tightR
+bounds:646,11,22,45
+char girl forward/body_forward
+bounds:368,4,52,56
+rotate:90
+char girl forward/handL_forward
+bounds:76,10,28,70
+rotate:90
+char girl forward/handR_forward
+bounds:517,36,20,65
+rotate:90
+char girl forward/head_forward
+bounds:684,145,129,118
+rotate:90
+char girl forward/tight_forward
+bounds:777,71,72,85
+rotate:90
+char girl left/left
+bounds:358,58,161,216
+char girl right/right
+bounds:521,58,161,216

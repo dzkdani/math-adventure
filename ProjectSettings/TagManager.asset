@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - wall
+  - sungai_b
+  - jalan
+  - log
+  - musuh
+  - mark
+  - wall_sungai
+  - sungai
+  - reverse
+  - rumput
+  - log_T
+  - rocket
+  - score
+  - headerMenu
+  - landing
+  - StageButton
+  - dot_jump
+  - WS_0
+  - wall_sungai_out_of_range
+  - WS_1
+  - WS_2
+  - tutor
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Enemy
+  - Wall
+  - Player
+  - Land
+  - SaveLoc
+  - T_Rocket
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1221693915
+    locked: 0
+  - name: Building
+    uniqueID: 285535765
+    locked: 0
+  - name: Character
+    uniqueID: 3169302035
+    locked: 0
+  - name: UI
+    uniqueID: 2616977111
+    locked: 0

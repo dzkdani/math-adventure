@@ -1,0 +1,47 @@
+tiktakunits_monsterturtle.png
+size:902,929
+filter:Linear,Linear
+pma:true
+monster turtle_0/handL
+bounds:2,2,111,146
+monster turtle_0/handR
+bounds:302,2,113,108
+monster turtle_0/head
+bounds:602,2,110,120
+monster turtle_1/handL
+bounds:2,311,111,146
+monster turtle_2/handL
+bounds:2,311,111,146
+monster turtle_3/handL
+bounds:2,311,111,146
+monster turtle_1/handR
+bounds:302,311,113,108
+monster turtle_2/handR
+bounds:302,311,113,108
+monster turtle_3/handR
+bounds:302,311,113,108
+monster turtle_1/head
+bounds:602,311,116,120
+monster turtle_2/head
+bounds:602,311,116,120
+monster turtle_3/head
+bounds:602,311,116,120
+monster turtle_1/home
+bounds:2,620,295,305
+monster turtle_2/body
+bounds:302,620,209,119
+monster turtle_3/body
+bounds:302,620,209,119
+monster turtle_2/home
+bounds:602,620,295,305
+
+tiktakunits_monsterturtle_2.png
+size:902,311
+filter:Linear,Linear
+pma:true
+monster turtle_3/foot
+bounds:2,2,99,60
+monster turtle_3/home
+bounds:302,2,298,307
+monster turtle_3/tail
+bounds:602,2,65,30

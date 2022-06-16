@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5437e315c53e9494384968d1307407df, type: 3}
+  m_Name: Shock Plane
+  m_EditorClassIdentifier: 
+  Name: Shock Plane
+  AttackType: 1
+  Icon: {fileID: -7789911110473509667, guid: 0da043b54cf6c75499516cf435043c8c, type: 3}
+  Model: {fileID: 1238868971118149316, guid: 30e91b037569e4f43af6e565794b3ac7, type: 3}
+  Projectile: {fileID: -1512758468511010321, guid: dc404bf0ad2db8a48b620163dc49a3a2,
+    type: 3}
+  RankIcons:
+  - {fileID: -7789911110473509667, guid: 0da043b54cf6c75499516cf435043c8c, type: 3}
+  - {fileID: -2316619937168349937, guid: 0da043b54cf6c75499516cf435043c8c, type: 3}
+  - {fileID: -7566850507819341875, guid: 0da043b54cf6c75499516cf435043c8c, type: 3}
+  - {fileID: 2735495900337159277, guid: 0da043b54cf6c75499516cf435043c8c, type: 3}
+  RankModels: []
+  Level: 5
+  BaseHP: 70
+  IncreaseHP: 4
+  BaseATK: 5
+  IncreaseATK: 3
+  BaseDEF: 2
+  IncreaseDEF: 1
+  BaseATKSPD: 2
+  BaseMOVSPD: 2
+  BaseATKRANGE: 15

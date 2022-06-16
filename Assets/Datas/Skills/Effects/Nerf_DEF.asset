@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97f4360c39b73224387131807db09a57, type: 3}
+  m_Name: Nerf_DEF
+  m_EditorClassIdentifier: 
+  Type: 4
+  DamageType:
+    DamageMultiplier: 0
+  DamageOverTimeType:
+    DamageMultiplier: 0
+    NumberDamageTicks: 0
+  HealType:
+    HealMultiplier: 0
+  BuffType:
+    BuffMultiplier: 0
+    BuffStat: 0
+    Duration: 0
+  NerfType:
+    NerfMultiplier: 0.8
+    NerfStat: 2
+    Duration: 5

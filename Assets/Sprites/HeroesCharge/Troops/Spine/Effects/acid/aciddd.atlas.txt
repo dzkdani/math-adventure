@@ -1,0 +1,40 @@
+aciddd.png
+size:851,190
+filter:Linear,Linear
+pma:true
+Layer 11
+bounds:2,2,281,45
+offsets:1,1,283,48
+Layer 17
+bounds:285,2,68,23
+offsets:1,1,70,25
+Layer 18
+bounds:568,2,67,21
+offsets:1,1,69,23
+Layer 19
+bounds:2,49,63,18
+offsets:1,1,65,20
+Layer 20
+bounds:568,49,232,36
+offsets:1,1,234,38
+Layer 20 copy
+bounds:285,49,279,33
+offsets:1,1,281,35
+Layer 21
+bounds:2,96,270,27
+offsets:1,1,272,29
+Layer 22
+bounds:285,96,187,25
+offsets:1,1,189,27
+Layer 23
+bounds:568,96,131,44
+offsets:1,1,133,46
+Layer 4
+bounds:2,143,163,31
+offsets:1,1,165,33
+Layer 5
+bounds:285,143,55,21
+offsets:1,1,57,23
+Layer 9
+bounds:568,143,169,24
+offsets:1,1,171,26

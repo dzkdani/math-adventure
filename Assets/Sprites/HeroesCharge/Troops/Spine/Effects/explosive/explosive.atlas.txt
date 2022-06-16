@@ -1,0 +1,22 @@
+explosive.png
+size:686,887
+filter:Linear,Linear
+pma:true
+Layer 1
+bounds:2,2,140,143
+offsets:1,1,142,145
+Layer 3
+bounds:344,2,302,249
+offsets:1,1,304,251
+Layer 4
+bounds:2,297,319,284
+offsets:1,1,321,286
+Layer 5
+bounds:344,297,340,293
+offsets:1,1,342,295
+Layer 6
+bounds:2,592,283,268
+offsets:1,1,285,270
+Layer 7
+bounds:344,592,270,254
+offsets:2,1,273,256

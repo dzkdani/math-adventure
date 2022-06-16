@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/LandingPage.unity
+    guid: 5db7088173adb524499b24899faf7016
+  - enabled: 1
+    path: Assets/Scenes/Intro.unity
+    guid: c7f08157041110742bba423512589d5a
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 6622eacb594d364409a1329d6736ef13
+  - enabled: 1
+    path: Assets/Scenes/GameMenu.unity
+    guid: 6cfd77aca5b21ea489e879c24c3659b8
+  - enabled: 1
+    path: Assets/Scenes/TrainingArena/MM.unity
+    guid: 0dcfe51332837b94f9599d8eb7a93725
+  - enabled: 1
+    path: Assets/Scenes/TrainingArena/Gameplay123.unity
+    guid: bbf85df59b780ba46adbb9d5ab60a9d5
+  - enabled: 1
+    path: Assets/Scenes/Quiz/QuizRoom.unity
+    guid: 6f5a42d5bdd82264d94d64dc1b28afc4
+  - enabled: 1
+    path: Assets/Scenes/Quiz/QuizQuestion.unity
+    guid: 0c93a1496158f314cbe2268f697b0f3b
+  - enabled: 1
+    path: Assets/Scenes/HeroesCharge/map.unity
+    guid: 56ee856d3d617c0469457cfa56d5bd29
+  - enabled: 1
+    path: Assets/Scenes/HeroesCharge/HeroesCharge.unity
+    guid: 42ec885337912c14da9bbc44ac3bcfac
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: c1eaa2ab4274deb4dbe60fb66925e95c,
+      type: 2}

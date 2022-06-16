@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5437e315c53e9494384968d1307407df, type: 3}
+  m_Name: Piercing Tank
+  m_EditorClassIdentifier: 
+  Name: Piercing Tank
+  AttackType: 0
+  Icon: {fileID: 8833101420797635073, guid: 0da043b54cf6c75499516cf435043c8c, type: 3}
+  Model: {fileID: 1238868971118149316, guid: 433a6e565ce390f419b2b3ba7068fe01, type: 3}
+  Projectile: {fileID: 0}
+  RankIcons:
+  - {fileID: 8833101420797635073, guid: 0da043b54cf6c75499516cf435043c8c, type: 3}
+  - {fileID: 5803550496157934291, guid: 0da043b54cf6c75499516cf435043c8c, type: 3}
+  - {fileID: -6626412492006108388, guid: 0da043b54cf6c75499516cf435043c8c, type: 3}
+  - {fileID: 2146007980034195753, guid: 0da043b54cf6c75499516cf435043c8c, type: 3}
+  RankModels: []
+  Level: 9
+  BaseHP: 100
+  IncreaseHP: 5
+  BaseATK: 16
+  IncreaseATK: 2
+  BaseDEF: 4
+  IncreaseDEF: 2
+  BaseATKSPD: 8
+  BaseMOVSPD: 2
+  BaseATKRANGE: 2

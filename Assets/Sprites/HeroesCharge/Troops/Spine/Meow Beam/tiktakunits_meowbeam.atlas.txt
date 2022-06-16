@@ -1,0 +1,20 @@
+tiktakunits_meowbeam.png
+size:800,764
+filter:Linear,Linear
+pma:true
+kartu meow beam_0/body
+bounds:2,2,223,252
+kartu meow beam_3/baloon
+bounds:268,2,264,136
+kartu meow beam_3/copter
+bounds:534,2,262,29
+kartu meow beam_3/fire
+bounds:2,256,45,42
+kartu meow beam_3/footL
+bounds:268,256,40,52
+kartu meow beam_3/footR
+bounds:534,256,41,54
+kartu meow beam_3/o
+bounds:2,510,18,20
+kartu meow beam_3/tail
+bounds:268,510,72,153

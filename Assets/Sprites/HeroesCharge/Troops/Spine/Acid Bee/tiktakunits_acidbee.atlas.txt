@@ -1,0 +1,36 @@
+tiktakunits_acidbee.png
+size:892,500
+filter:Linear,Linear
+pma:true
+kartu acid bee_0/body
+bounds:2,2,56,63
+offsets:0,0,56,67
+kartu acid bee_0/head
+bounds:180,2,153,135
+kartu acid bee_0/tail
+bounds:358,2,116,164
+kartu acid bee_0/wingL
+bounds:536,2,93,157
+kartu acid bee_0/wingR
+bounds:714,2,162,140
+kartu acid bee_1/body
+bounds:2,168,57,106
+offsets:0,0,57,113
+kartu acid bee_1/head
+bounds:180,168,164,135
+kartu acid bee_1/tail
+bounds:358,168,116,164
+kartu acid bee_1/wingL
+bounds:536,168,93,157
+offsets:0,0,94,157
+kartu acid bee_1/wingR
+bounds:714,168,162,142
+offsets:0,3,162,145
+kartu acid bee_2/head
+bounds:2,334,176,143
+kartu acid bee_2/tail
+bounds:180,334,116,164
+kartu acid bee_3/handL
+bounds:358,334,75,86
+kartu acid bee_3/handR
+bounds:536,334,100,98

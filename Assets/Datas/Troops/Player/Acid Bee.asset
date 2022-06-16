@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5437e315c53e9494384968d1307407df, type: 3}
+  m_Name: Acid Bee
+  m_EditorClassIdentifier: 
+  Name: Acid Bee
+  AttackType: 1
+  Icon: {fileID: 9094757991165119119, guid: 0da043b54cf6c75499516cf435043c8c, type: 3}
+  Model: {fileID: 1238868971118149316, guid: 1cc23ab712afb8942a4dfec05e8fb96b, type: 3}
+  Projectile: {fileID: 459877595237736541, guid: 91cd5c3d9193a174fbee180f693930d0,
+    type: 3}
+  RankIcons:
+  - {fileID: 9094757991165119119, guid: 0da043b54cf6c75499516cf435043c8c, type: 3}
+  - {fileID: 6618431492776103749, guid: 0da043b54cf6c75499516cf435043c8c, type: 3}
+  - {fileID: 7400398102013805567, guid: 0da043b54cf6c75499516cf435043c8c, type: 3}
+  - {fileID: 4697320352426171669, guid: 0da043b54cf6c75499516cf435043c8c, type: 3}
+  RankModels: []
+  Level: 5
+  BaseHP: 50
+  IncreaseHP: 3
+  BaseATK: 9
+  IncreaseATK: 3
+  BaseDEF: 2
+  IncreaseDEF: 1
+  BaseATKSPD: 1
+  BaseMOVSPD: 2
+  BaseATKRANGE: 10

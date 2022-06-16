@@ -1,0 +1,746 @@
+fileFormatVersion: 2
+guid: 0da043b54cf6c75499516cf435043c8c
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 0
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: troops_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 250
+      height: 300
+    spriteID: fd144b278d77e5e458731f0849550b8e
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: icon_acid_bee_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 250
+      height: 300
+    spriteID: 33150ac701664024189c520ed5a277c2
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 4}
+  - name: icon_acid_bee_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 312
+      width: 250
+      height: 300
+    spriteID: 70f2ad43fb0c5824b85350d8ca4459c3
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 312}
+  - name: icon_acid_bee_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 620
+      width: 250
+      height: 300
+    spriteID: 6629d991d7b130448947acbdde35ab63
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 620}
+  - name: icon_acid_bee_4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 928
+      width: 250
+      height: 300
+    spriteID: 4c91ea0a7bab9b340a18fb0eda266f58
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 928}
+  - name: icon_gun_eater_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1236
+      width: 250
+      height: 300
+    spriteID: 5f2ca8a15dd69a148a364455e62dd41e
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 1236}
+  - name: icon_gun_eater_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1544
+      width: 250
+      height: 300
+    spriteID: 3ffd50a2ebd4c0f4bbbd91d3b6ae2cd8
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 1544}
+  - name: icon_gun_eater_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 262
+      y: 4
+      width: 250
+      height: 300
+    spriteID: a0d835f46c324e84c88c9e8e96fef9c2
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 262, y: 4}
+  - name: icon_gun_eater_4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 262
+      y: 312
+      width: 250
+      height: 300
+    spriteID: 114d9773f42dde2469f22eb0110783c0
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 262, y: 312}
+  - name: icon_meow_beam_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 262
+      y: 620
+      width: 250
+      height: 300
+    spriteID: b0858f2dc691ac843833f814d7cabe17
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 262, y: 620}
+  - name: icon_meow_beam_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 262
+      y: 928
+      width: 250
+      height: 300
+    spriteID: 2db8e8c99af39354eb42de572efc5fc4
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 262, y: 928}
+  - name: icon_meow_beam_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 262
+      y: 1236
+      width: 250
+      height: 300
+    spriteID: 0cadbcb7aa3bd694bb67eed884eff599
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 262, y: 1236}
+  - name: icon_meow_beam_4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 262
+      y: 1544
+      width: 250
+      height: 300
+    spriteID: 0f29cfe8488b44d47a4cce10766769f6
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 262, y: 1544}
+  - name: icon_tank_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 520
+      y: 1236
+      width: 247
+      height: 300
+    spriteID: 694c0cbdda25b474ba48cb28eecd2828
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 519, y: 1236}
+  - name: icon_tank_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 520
+      y: 1544
+      width: 247
+      height: 300
+    spriteID: 50511970f0c88904f9c04a53c0eab8e1
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 519, y: 1544}
+  - name: icon_tank_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 778
+      y: 4
+      width: 247
+      height: 300
+    spriteID: 79eb5ca7f4bc0044e82ea276803ef479
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 777, y: 4}
+  - name: icon_tank_4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 778
+      y: 312
+      width: 247
+      height: 300
+    spriteID: 4d4f52b5aceba7c41bddeeee8dde8cdf
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 777, y: 312}
+  - name: icon_plane_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 520
+      y: 4
+      width: 250
+      height: 300
+    spriteID: 2ee6ea06c3854f445900f4ab5c489978
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 520, y: 4}
+  - name: icon_plane_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 520
+      y: 312
+      width: 250
+      height: 300
+    spriteID: 136947f63829748488263234a70ec155
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 520, y: 312}
+  - name: icon_plane_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 520
+      y: 620
+      width: 250
+      height: 300
+    spriteID: 8530d9d6249dd4040b43c51aae63d0c1
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 520, y: 620}
+  - name: icon_plane_4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 520
+      y: 928
+      width: 250
+      height: 300
+    spriteID: 651b6a4415716cf4aa24ed626a803538
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 520, y: 928}
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: WebGL
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Android
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  mosaicLayers: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  importedTextureWidth: 2048
+  importedTextureHeight: 2048
+  documentSize: {x: 250, y: 300}
+  paperDollMode: 0
+  keepDupilcateSpriteName: 1
+  spriteCategoryList:
+    categories: []
+  textureActualWidth: 2048
+  textureActualHeight: 2048
+  spritePackingTag: 
+  resliceFromLayer: 0
+  characterMode: 1
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: icon_acid_bee_1
+    spriteName: icon_acid_bee_1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 33150ac701664024189c520ed5a277c2
+    layerID: 2
+    mosaicPosition: {x: 4, y: 4}
+  - name: icon_acid_bee_2
+    spriteName: icon_acid_bee_2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 70f2ad43fb0c5824b85350d8ca4459c3
+    layerID: 4
+    mosaicPosition: {x: 4, y: 312}
+  - name: icon_acid_bee_3
+    spriteName: icon_acid_bee_3
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 6629d991d7b130448947acbdde35ab63
+    layerID: 9
+    mosaicPosition: {x: 4, y: 620}
+  - name: icon_acid_bee_4
+    spriteName: icon_acid_bee_4
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 4c91ea0a7bab9b340a18fb0eda266f58
+    layerID: 10
+    mosaicPosition: {x: 4, y: 928}
+  - name: icon_gun_eater_1
+    spriteName: icon_gun_eater_1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 5f2ca8a15dd69a148a364455e62dd41e
+    layerID: 12
+    mosaicPosition: {x: 4, y: 1236}
+  - name: icon_gun_eater_2
+    spriteName: icon_gun_eater_2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 3ffd50a2ebd4c0f4bbbd91d3b6ae2cd8
+    layerID: 14
+    mosaicPosition: {x: 4, y: 1544}
+  - name: icon_gun_eater_3
+    spriteName: icon_gun_eater_3
+    isGroup: 0
+    parentIndex: -1
+    spriteID: a0d835f46c324e84c88c9e8e96fef9c2
+    layerID: 15
+    mosaicPosition: {x: 262, y: 4}
+  - name: icon_gun_eater_4
+    spriteName: icon_gun_eater_4
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 114d9773f42dde2469f22eb0110783c0
+    layerID: 16
+    mosaicPosition: {x: 262, y: 312}
+  - name: icon_meow_beam_1
+    spriteName: icon_meow_beam_1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: b0858f2dc691ac843833f814d7cabe17
+    layerID: 17
+    mosaicPosition: {x: 262, y: 620}
+  - name: icon_meow_beam_2
+    spriteName: icon_meow_beam_2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 2db8e8c99af39354eb42de572efc5fc4
+    layerID: 18
+    mosaicPosition: {x: 262, y: 928}
+  - name: icon_meow_beam_3
+    spriteName: icon_meow_beam_3
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 0cadbcb7aa3bd694bb67eed884eff599
+    layerID: 20
+    mosaicPosition: {x: 262, y: 1236}
+  - name: icon_meow_beam_4
+    spriteName: icon_meow_beam_4
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 0f29cfe8488b44d47a4cce10766769f6
+    layerID: 21
+    mosaicPosition: {x: 262, y: 1544}
+  - name: icon_tank_1
+    spriteName: icon_tank_1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 694c0cbdda25b474ba48cb28eecd2828
+    layerID: 22
+    mosaicPosition: {x: 520, y: 1236}
+  - name: icon_tank_2
+    spriteName: icon_tank_2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 50511970f0c88904f9c04a53c0eab8e1
+    layerID: 23
+    mosaicPosition: {x: 520, y: 1544}
+  - name: icon_tank_3
+    spriteName: icon_tank_3
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 79eb5ca7f4bc0044e82ea276803ef479
+    layerID: 24
+    mosaicPosition: {x: 778, y: 4}
+  - name: icon_tank_4
+    spriteName: icon_tank_4
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 4d4f52b5aceba7c41bddeeee8dde8cdf
+    layerID: 25
+    mosaicPosition: {x: 778, y: 312}
+  - name: icon_plane_1
+    spriteName: icon_plane_1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 2ee6ea06c3854f445900f4ab5c489978
+    layerID: 26
+    mosaicPosition: {x: 520, y: 4}
+  - name: icon_plane_2
+    spriteName: icon_plane_2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 136947f63829748488263234a70ec155
+    layerID: 27
+    mosaicPosition: {x: 520, y: 312}
+  - name: icon_plane_3
+    spriteName: icon_plane_3
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 8530d9d6249dd4040b43c51aae63d0c1
+    layerID: 28
+    mosaicPosition: {x: 520, y: 620}
+  - name: icon_plane_4
+    spriteName: icon_plane_4
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 651b6a4415716cf4aa24ed626a803538
+    layerID: 29
+    mosaicPosition: {x: 520, y: 928}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+  generateGOHierarchy: 0
+  textureAssetName: troops Texture
+  prefabAssetName: troops Prefab
+  spriteLibAssetName: troops Sprite Lib
+  secondarySpriteTextures: []

@@ -1,0 +1,101 @@
+Green.png
+size:538,526
+filter:Linear,Linear
+pma:true
+boyGreen for dragonbones/armL
+bounds:488,45,18,29
+boyGreen for dragonbones/armR
+bounds:275,24,20,32
+rotate:90
+boyGreen for dragonbones/body
+bounds:465,449,64,75
+offsets:0,0,66,75
+boyGreen for dragonbones/footL
+bounds:461,41,32,25
+rotate:90
+boyGreen for dragonbones/footR
+bounds:461,7,32,25
+rotate:90
+boyGreen for dragonbones/handL
+bounds:218,4,20,41
+offsets:2,0,22,41
+rotate:90
+boyGreen for dragonbones/handR
+bounds:169,2,24,47
+offsets:1,0,25,47
+rotate:90
+boyGreen for dragonbones/head
+bounds:350,120,114,101
+boyGreen for dragonbones/tight
+bounds:259,46,47,20
+boyGreen for dragonbones/tightL
+bounds:310,63,25,38
+rotate:90
+boyGreen for dragonbones/tightR
+bounds:226,46,31,42
+boyGreen forward/body_forward
+bounds:465,375,59,72
+boyGreen forward/handL_forward
+bounds:466,162,26,69
+rotate:90
+boyGreen forward/handR_forward
+bounds:466,123,17,59
+rotate:90
+boyGreen forward/head_forward
+bounds:350,13,105,109
+rotate:90
+boyGreen forward/tight_forward
+bounds:86,8,74,81
+rotate:90
+boyGreen left/left
+bounds:178,308,170,216
+boyGreen right/right
+bounds:178,90,170,216
+girlGreen for dragonbones/armL
+bounds:486,76,12,23
+offsets:1,0,13,23
+rotate:90
+girlGreen for dragonbones/armR
+bounds:488,22,14,21
+girlGreen for dragonbones/body
+bounds:468,318,55,55
+girlGreen for dragonbones/footL
+bounds:486,90,32,31
+girlGreen for dragonbones/footR
+bounds:309,28,34,33
+offsets:1,0,35,33
+girlGreen for dragonbones/handL
+bounds:226,26,18,47
+offsets:1,0,19,51
+rotate:90
+girlGreen for dragonbones/handR
+bounds:169,28,23,54
+girlGreen for dragonbones/head
+bounds:350,358,113,166
+girlGreen for dragonbones/tight
+bounds:259,68,49,20
+girlGreen for dragonbones/tightL
+bounds:461,75,23,43
+offsets:0,0,24,43
+girlGreen for dragonbones/tightR
+bounds:194,39,30,49
+girlGreen forward/body_forward
+bounds:468,258,50,58
+girlGreen forward/handL_forward
+bounds:466,190,28,70
+rotate:90
+girlGreen forward/handR_forward
+bounds:466,142,18,66
+rotate:90
+girlGreen forward/head_forward
+bounds:350,223,116,133
+girlGreen forward/scarf
+bounds:468,220,36,53
+rotate:90
+girlGreen forward/tight_forward
+bounds:2,6,76,82
+rotate:90
+girlGreen left/left
+bounds:2,305,174,219
+girlGreen right/right
+bounds:2,84,174,219

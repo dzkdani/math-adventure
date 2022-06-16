@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5437e315c53e9494384968d1307407df, type: 3}
+  m_Name: Gun Eater
+  m_EditorClassIdentifier: 
+  Name: Gun Eater
+  AttackType: 1
+  Icon: {fileID: -1008556227117464876, guid: 0da043b54cf6c75499516cf435043c8c, type: 3}
+  Model: {fileID: 1238868971118149316, guid: 6134f7e10769ec245bedca956d630faf, type: 3}
+  Projectile: {fileID: -4957798688132051436, guid: 7a535d3c74d93264f8b6eb6580210603,
+    type: 3}
+  RankIcons:
+  - {fileID: -7229793426004699866, guid: 0da043b54cf6c75499516cf435043c8c, type: 3}
+  - {fileID: -1008556227117464876, guid: 0da043b54cf6c75499516cf435043c8c, type: 3}
+  - {fileID: -4730263129979386987, guid: 0da043b54cf6c75499516cf435043c8c, type: 3}
+  - {fileID: -5887925620806388876, guid: 0da043b54cf6c75499516cf435043c8c, type: 3}
+  RankModels: []
+  Level: 5
+  BaseHP: 70
+  IncreaseHP: 4
+  BaseATK: 26
+  IncreaseATK: 2
+  BaseDEF: 2
+  IncreaseDEF: 1
+  BaseATKSPD: 10
+  BaseMOVSPD: 2
+  BaseATKRANGE: 15

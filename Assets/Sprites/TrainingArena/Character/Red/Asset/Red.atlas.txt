@@ -1,0 +1,94 @@
+Red.png
+size:1571,191
+filter:Linear,Linear
+pma:true
+char boy for dragonbones/armL
+bounds:1327,2,20,32
+rotate:90
+char boy for dragonbones/armR
+bounds:1377,2,23,38
+char boy for dragonbones/body
+bounds:1415,37,68,59
+char boy for dragonbones/footL
+bounds:1377,42,35,33
+char boy for dragonbones/footR
+bounds:1000,9,36,32
+char boy for dragonbones/handL
+bounds:1402,18,17,40
+offsets:0,1,17,41
+rotate:90
+char boy for dragonbones/handR
+bounds:1485,38,23,43
+offsets:2,0,25,43
+char boy for dragonbones/head
+bounds:1038,56,132,133
+char boy for dragonbones/tight
+bounds:1096,2,52,27
+rotate:90
+char boy for dragonbones/tightL
+bounds:1510,44,28,37
+char boy for dragonbones/tightR
+bounds:1295,30,31,45
+char boy forward/body_foward
+bounds:1180,9,68,63
+char boy forward/foot_foward
+bounds:1415,98,78,91
+char boy forward/handL_foward
+bounds:1495,83,27,74
+rotate:90
+char boy forward/handR_foward
+bounds:1250,2,23,70
+char boy forward/head_foward
+bounds:906,43,130,146
+char boy left/left
+bounds:2,10,179,252
+rotate:90
+char boy right/right
+bounds:256,10,179,252
+rotate:90
+girlRed for dragonbones/armL
+bounds:938,2,12,20
+rotate:90
+girlRed for dragonbones/armR
+bounds:1402,2,14,19
+rotate:90
+girlRed for dragonbones/body
+bounds:1038,2,56,52
+girlRed for dragonbones/footL
+bounds:1540,44,27,37
+girlRed for dragonbones/footR
+bounds:906,2,30,39
+girlRed for dragonbones/handL
+bounds:1444,17,18,37
+rotate:90
+girlRed for dragonbones/handR
+bounds:1328,24,22,47
+rotate:90
+girlRed for dragonbones/head
+bounds:1294,77,119,112
+girlRed for dragonbones/tight
+bounds:1328,48,47,27
+girlRed for dragonbones/tightL
+bounds:1510,19,23,32
+rotate:90
+girlRed for dragonbones/tightR
+bounds:1295,3,25,30
+rotate:90
+girlRed forward/body_foward
+bounds:1125,3,53,51
+girlRed forward/foot_foward
+bounds:1495,112,65,77
+offsets:0,0,65,78
+girlRed forward/handL_foward
+bounds:938,16,25,60
+rotate:90
+girlRed forward/handR_foward
+bounds:1275,20,18,52
+girlRed forward/head_foward
+bounds:1172,74,120,115
+girlRed left/left
+bounds:510,5,184,196
+rotate:90
+girlRed right/right
+bounds:708,5,184,196
+rotate:90

@@ -1,0 +1,167 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcd7c8b9b35c6864fabd3fa3f08ec3bc, type: 3}
+  m_Name: Set3
+  m_EditorClassIdentifier: 
+  terrainIDs:
+  - terrain: {fileID: 1023433254821585335, guid: ef60a2158d455354fb7bf0dd17894138,
+      type: 3}
+    nama: M1_Box
+    jarak: 10
+  - terrain: {fileID: 1312897726093096428, guid: adf6222397387554cbed22398d10da9e,
+      type: 3}
+    nama: M2_Box
+    jarak: 12.5
+  - terrain: {fileID: 1346038613902143239, guid: d5342ad707d3f034da0fbb58fe9af1e1,
+      type: 3}
+    nama: M3_Box
+    jarak: 12.5
+  - terrain: {fileID: 6529734312497943996, guid: b93074964cbd52e49a8f6edbd944ae13,
+      type: 3}
+    nama: M4_Box
+    jarak: 12.5
+  - terrain: {fileID: 1414405779656527789, guid: f4685d0e4fe179e479fe71a41134901e,
+      type: 3}
+    nama: M5_Box
+    jarak: 12.5
+  - terrain: {fileID: 7308763448187131505, guid: 52f5d1c7e7cbef64795b78aae1deea23,
+      type: 3}
+    nama: MP1_Box
+    jarak: 12.5
+  - terrain: {fileID: 7857895729333668205, guid: 2359860dd3668b3498cb4d39c24b3b7e,
+      type: 3}
+    nama: MP2_Box
+    jarak: 12.5
+  - terrain: {fileID: 1677773120728202595, guid: 2350830af8e380d4b9fffc4f40affaac,
+      type: 3}
+    nama: MP3_Box
+    jarak: 12.5
+  - terrain: {fileID: 6262365599114923347, guid: ce1d14b3486cda147a60555e6572244d,
+      type: 3}
+    nama: MP4_Box
+    jarak: 12.5
+  - terrain: {fileID: 3029925053377279866, guid: b15ffacb5dbebdd42b1929d2f9dfcaeb,
+      type: 3}
+    nama: G1_Gada
+    jarak: 7.5
+  - terrain: {fileID: 4012501444258181115, guid: cf0b13c8e83ec334684c4f1392750902,
+      type: 3}
+    nama: G2_Gada
+    jarak: 10
+  - terrain: {fileID: 6548106828306014091, guid: ad09bb90fca3f6c44b6fe6a1934fb2bd,
+      type: 3}
+    nama: G3_Gada
+    jarak: 10
+  - terrain: {fileID: 8185108399914284397, guid: d21b09705c53d3543857d6901ae6afa0,
+      type: 3}
+    nama: G4_Gada
+    jarak: 15
+  - terrain: {fileID: 6600492022025438545, guid: 735bd14cd0abdad4282b90f6b587cbfe,
+      type: 3}
+    nama: G5_Gada
+    jarak: 17.5
+  - terrain: {fileID: 5214696670355996028, guid: bf2f5106fa57dfc42b0732d391d160c3,
+      type: 3}
+    nama: GI1_Gada
+    jarak: 15
+  - terrain: {fileID: 219792151663360541, guid: bd864d72e1a80e4449a65f04b89dfcab,
+      type: 3}
+    nama: GI2_Gada
+    jarak: 17.5
+  - terrain: {fileID: 3564457892456199765, guid: 1d260a0a265e35d44a6611e29337befc,
+      type: 3}
+    nama: K1_Kosong
+    jarak: 5
+  - terrain: {fileID: 7702407256029317480, guid: 37c688505125a1f4899dbae4cc67854a,
+      type: 3}
+    nama: K2_Kosong
+    jarak: 2.5
+  - terrain: {fileID: 4716730307066416285, guid: ed2804dfe3c8a9847b63aae78462172b,
+      type: 3}
+    nama: KI1_Kosong
+    jarak: 5
+  - terrain: {fileID: 7594055853386222931, guid: 04b78d1fd66d7824ca85e12e78f152b3,
+      type: 3}
+    nama: KI2_Kosong
+    jarak: 5
+  - terrain: {fileID: 9203431744997387187, guid: 322c157945ca143489fd936ce4cdaace,
+      type: 3}
+    nama: KI3_Kosong
+    jarak: 2.5
+  - terrain: {fileID: 7585588976887946831, guid: 8a8ab4a34855d4f4f9b320fce450d5c4,
+      type: 3}
+    nama: KI4_Kosong
+    jarak: 2.5
+  - terrain: {fileID: 8311716941755527844, guid: fa066890462d69c459caa1d237d858c5,
+      type: 3}
+    nama: KP1_Kosong
+    jarak: 5
+  - terrain: {fileID: 3287378020111794978, guid: 9d3740a6f372df4448cda1a507fe60df,
+      type: 3}
+    nama: KP2_Kosong
+    jarak: 5
+  - terrain: {fileID: 3384195935107874100, guid: 79dc2ae42abf5f84aa5b4125b9f61874,
+      type: 3}
+    nama: KP3_Kosong
+    jarak: 2.5
+  - terrain: {fileID: 2929708274902106636, guid: d703e6ca397fa0e4c8e1586a58ee008b,
+      type: 3}
+    nama: KP4_Kosong
+    jarak: 2.5
+  - terrain: {fileID: 6318239883171971687, guid: 90e937473e19d0c48a766a1ec6de47c2,
+      type: 3}
+    nama: S1_Sungai
+    jarak: 7.5
+  - terrain: {fileID: 7681683878951702599, guid: 6d1ab4b63555fcb46ab091956c206260,
+      type: 3}
+    nama: S2_Sungai
+    jarak: 10
+  - terrain: {fileID: 798113522420070766, guid: 9d8dc531f9c9e1c43b008202be566680,
+      type: 3}
+    nama: MR1
+    jarak: 12.5
+  - terrain: {fileID: 1372237500758702148, guid: b08da4189b5c258438ab9177562c3050,
+      type: 3}
+    nama: MR2
+    jarak: 12.5
+  - terrain: {fileID: 7708118762035903538, guid: 2628bec80dfc41443a60030393b1ed47,
+      type: 3}
+    nama: R1
+    jarak: 5
+  - terrain: {fileID: 786304182970011721, guid: c8a94c602372e8343937a12924452ef6,
+      type: 3}
+    nama: R2
+    jarak: 5
+  - terrain: {fileID: 119925059265920976, guid: fad616ba6b3ac014ebd7c9b8a63ec833,
+      type: 3}
+    nama: R3
+    jarak: 5
+  - terrain: {fileID: 439286256806698230, guid: a56b7c3468b87ea4a942a5dd628fa3a8,
+      type: 3}
+    nama: R4
+    jarak: 5
+  - terrain: {fileID: 6841409826339870007, guid: b6cd1b78a525ec448961226de2328db4,
+      type: 3}
+    nama: R5
+    jarak: 5
+  - terrain: {fileID: 6405778088044495817, guid: 6e62fdc292a8a1747adb9dc0e0fd3ddf,
+      type: 3}
+    nama: RI1
+    jarak: 5
+  - terrain: {fileID: 6913283440247882153, guid: 7b208f24b73e8f645aa915e05ae0d67c,
+      type: 3}
+    nama: RI2
+    jarak: 5
+  terrainSets:
+  - tSets: 100000001b000000160000000c000000110000000300000017000000200000001100000004000000150000000d00000010000000
+  - tSets: 100000001b000000160000000c000000110000000300000017000000200000001100000004000000150000000d00000010000000
+  - tSets: 100000001b000000160000000c000000110000000300000017000000200000001100000004000000150000000d00000010000000
